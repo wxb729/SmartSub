@@ -1252,3 +1252,21 @@ https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Barabama/FreeNodes/master/nodes/wenode.txt	request_failed
 https://raw.githubusercontent.com/ssrsub/ssr/master/V2Ray	http_404
 https://raw.githubusercontent.com/cxr9912/cxr2022/main/free.yaml	http_404
+
+=== 2026-02-21 04:43:19 - 失效订阅 (11 个) ===
+http://www.okhao.xyz	request_failed
+https://52yunwang.dpdns.org/123456	http_429
+https://nianyun.top/xxntoken=/4270d6448c1c2fa6574326f8591036c5	http_403
+https://www.fkabc.top/	http_439
+http://59.127.212.110:4431/#16%F0%9F%90%8A%40oneclickvpnkeys	http_403
+https://apps.apple.com/us/app/openvpn-connect/id590379981	request_failed
+http://Hiddify-Windows-Portable-x64.zip/	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%29TFRz=	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?--mU=%7B%22--55%22%3A%22HO%22%2C%22--5KY%22%3A%22GpYUKpk%22%2C%22--8S%22%3A%22%22%2C%22---5%22%3A%22%28z%22%7D	request_failed
+https://opengraph.githubassets.com/aef1950229d994e24f2e01a1bd16a453e20b779e5ba1ee22ee5bf1a459652dd4/ermaozi/get_subscribe	http_429
+https://zh.momobaby.org/download/clash/57ebc2e57d2c902c5f392947328d5dd0be8c80901cf7a328202af574c2d7ec18?config_name=%E6%97%A0%E9%99%90%E6%B5%81%E9%87%8F	request_failed
+
+=== 2026-02-21 04:43:50 - 失效订阅 (3 个) ===
+https://merovexia.xyz/link/?token=aa6d68b1468fbe6a0a6c90ebaab21e8c	http_403
+https://xdyew.lobonet.cn/mdet/wdfs/heuy/?token=563e0ddeb188c63ca019ad5813e7092e	request_failed
+https://xdyew.lobonet.cn/mdet/wdfs/heuy/?token=890cb5004c24193710f112283f66cd4d	request_failed
