@@ -2497,3 +2497,22 @@ https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%293rD=Q	request_fail
 https://r2-c11-dd.0-w.ccwu.cc/Io2nIIKIDRiOSj36H/b928941e-3fbd-43d1-9124-bc11682e26a9/#default	request_failed
 http://guardnet.ir/f/01bf736e897c	request_failed
 http://guardnet.ir/f/042d609df543	request_failed
+
+=== 2026-03-26 14:27:37 - 失效订阅 (13 个) ===
+https://www.applnn.com/42748.html	http_403
+https://www.applnn.com/39242.html	http_403
+https://www.applnn.com/8470.html	http_403
+https://www.applnn.com/44841.html	http_403
+https://www.applnn.com/39206.html	http_403
+https://www.applnn.com/42746.html	http_403
+https://suba.f2vip.net/api/v1/client/subscribe?token=1706397b9f1bd681abd9d1c09e2b1b1e	http_403
+https://opengraph.githubassets.com/75ad080c4e4553c5518cc34c8c586af5966834a4b8061911b406cdad35e77edb/ermaozi/get_subscribe	http_429
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Barabama/FreeNodes/master/nodes/kkzui.txt	request_failed
+https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/channels/protocols/trojan	http_404
+http://guardnet.ir/f/MoradVaisi_Live_0106-1	request_failed
+https://raw.githubusercontent.com/rxsweet/proxies/main/sub/srx.yaml	http_404
+https://aeza.net/?ref=751818	request_failed
+
+=== 2026-03-26 14:28:00 - 失效订阅 (2 个) ===
+https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=68347aa562675f50f0298ce1cf0027e5	request_failed
+https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=db76ccdbe04eac3b7ea8be100563ff23	request_failed
