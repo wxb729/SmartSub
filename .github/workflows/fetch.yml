@@ -1,11 +1,11 @@
 name: Fetch Subscriptions Source
 
 # 触发条件
-on:
+于:
   workflow_dispatch:
 
   schedule:
-    - cron: '0 20 * * *' # 北京时间凌晨4点 (UTC 20:00)
+    - cron: '30 00 * * *' # 北京时间上午8点30分 (UTC 00:30)
   # watch:
   #   types: started
   # - cron: '0 3,12 * * *'
