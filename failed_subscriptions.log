@@ -2516,3 +2516,15 @@ https://aeza.net/?ref=751818	request_failed
 === 2026-03-26 14:28:00 - 失效订阅 (2 个) ===
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=68347aa562675f50f0298ce1cf0027e5	request_failed
 https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=db76ccdbe04eac3b7ea8be100563ff23	request_failed
+
+=== 2026-03-27 09:29:37 - 失效订阅 (10 个) ===
+https://kad520.uk/#/register?code=60vRVgrL	http_403
+https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=a4443a725a0e69ae9687322b12961fc1	http_404
+https://api.nekocloud.top/api/v1/nekocloud/016ddfcf8da4956b6e54f5b979c89bc7	http_403
+http://102.22.254.116/	request_failed
+https://su.gwzxwk.com/api/v1/client/subscribe?token=c2c077c5c497219a9564844bbd6395a3	http_403
+https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=8f09bc491135cbf13a2521730ad0f2e1	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?-F3JF=	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%28SgsF=	request_failed
+http://188.92.255.225:53/	request_failed
+https://aeza.net/?ref=506382	request_failed
