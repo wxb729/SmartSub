@@ -1,7 +1,7 @@
 name: Fetch Subscriptions Source
 
 # 触发条件
-于:
+on:
   workflow_dispatch:
 
   schedule:
