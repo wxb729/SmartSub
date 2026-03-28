@@ -2528,3 +2528,37 @@ https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?-F3JF=	request_failed
 https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%28SgsF=	request_failed
 http://188.92.255.225:53/	request_failed
 https://aeza.net/?ref=506382	request_failed
+
+=== 2026-03-28 11:21:36 - 失效订阅 (19 个) ===
+https://www.applnn.com/42750.html	http_403
+https://www.applnn.com/45790.html	http_403
+https://www.applnn.com/42770.html	http_403
+https://www.applnn.com/46781.html	http_403
+https://apps.apple.com/cn/app/id6760689429	http_404
+https://www.applnn.com/46777.html	http_403
+https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=040c77fafccf39f903b38d89d5ea3564	http_404
+https://asd.xueshanlink.com/api/xueshanlink/8f7fead73e48a54117d28527b86b9917	http_520
+https://suba.f2vip.net/api/v1/client/subscribe?token=a4d60bf9292e142c4efb5762fb9da180	http_403
+https://suba.f2vip.net/api/v1/client/subscribe?token=763463f982967df53ca3a3f6ea3c2b4a	http_403
+https://shibaadearner.top/telegram_ad_platform/track_click.php?t=MjM2OjE3MzM6MTc3NDU5Mjk1OQ==	http_500
+https://pbs.twimg.com/media/HEZ33GPWYAAe-aY?format=jpg&amp;amp;name=medium	http_404
+https://pbs.twimg.com/media/HEZ33GPWYAAe-aY?format=jpg&amp;name=medium	http_404
+http://baam.bmi.ir/	http_403
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%2899Wu=i	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%28kght=	request_failed
+https://opengraph.githubassets.com/0cea99c7cd1e844f642c72fce0d0917deec06970f27c4a38b08eb8c78670557d/ermaozi/get_subscribe	http_429
+http://guardnet.ir/f/b377d927f80a	request_failed
+http://guardnet.ir/f/650deaee6f25	request_failed
+
+=== 2026-03-28 11:21:59 - 失效订阅 (11 个) ===
+https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=ca113f5cb41303b025827e39178ab3ae	request_failed
+https://suba.f2vip.net/api/v1/client/subscribe?token=4a1f08ccc9331a8c737446538d1a28e1	http_403
+https://suba.f2vip.net/api/v1/client/subscribe?token=23468c2c9a5697fb91ad322e45d18638	http_403
+https://suba.f2vip.net/api/v1/client/subscribe?token=3ed6834aa4be366e2a19318a33123a31	http_403
+https://suba.f2vip.net/api/v1/client/subscribe?token=18f2881373d76fc3fb6b358c9dce0702	http_403
+https://suba.f2vip.net/api/v1/client/subscribe?token=5967bfeb1966add9388c97c168c9534d	http_403
+https://suba.f2vip.net/api/v1/client/subscribe?token=5c4d77cb18fb61d420ebf1cb8eb2883b	http_403
+https://suba.f2vip.net/api/v1/client/subscribe?token=dbbe5dae01e2ef61a1c3906ae32bd8c6	http_403
+https://suba.f2vip.net/api/v1/client/subscribe?token=bd907085034e6aba39234037b30ac7a7	http_403
+https://suba.f2vip.net/api/v1/client/subscribe?token=918f24a1195fd04afe0031e43b7b7e6a	http_403
+https://suba.f2vip.net/api/v1/client/subscribe?token=955b011062b25daa640f363b84ceb921	http_403
