@@ -2830,3 +2830,35 @@ https://vess.zhuk.dpdns.org/2026/qe/v.txt	request_failed
 https://vess.zhuk.dpdns.org/2026/2621/v.txt	request_failed
 https://vess.zhuk.dpdns.org/2026/l/v.txt	request_failed
 https://vess.zhuk.dpdns.org/2026/ju/v.txt	request_failed
+
+=== 2026-04-01 11:50:10 - 失效订阅 (17 个) ===
+https://suba.f2vip.net/api/v1/client/subscribe?token=b2d45f5a36b9810c7d5e6eca824b8086	request_failed
+https://info.dns.malw.link/	http_403
+https://5u35p8m9i7.cloudflare-gateway.com/dns-query	http_405
+https://www.flyintpro05.com/api/v1/client/subscribe?token=62be89e4bc828cdfd0c62bfb44746312	http_403
+https://suba.f2vip.net/api/v1/client/subscribe?token=68056685dfe45c80095cdc48d278da6a	request_failed
+https://suba.f2vip.net/api/v1/client/subscribe?token=1650c3709e8a92261d72ac04303f01cf	request_failed
+https://suba.f2vip.net/api/v1/client/subscribe?token=9ee437ce8c98c046610d347cccec35ba	request_failed
+https://suba.f2vip.net/api/v1/client/subscribe?token=1c2cbe64a4121ca1b6f0514b05ec6439	request_failed
+https://suba.f2vip.net/api/v1/client/subscribe?token=0ec367738317569238c74314efe90406	request_failed
+https://suba.f2vip.net/api/v1/client/subscribe?token=6b32ba737c3d0948515ad56a27f5415e	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%29hz=	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%283H3=	request_failed
+https://www.dl.farsroid.com/ap/Adguard-N-Premium-4.14.38	request_failed
+https://github.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/raw/main/sub/Finland/config.txt	http_404
+http://guardnet.ir/f/12f5c9167a9d	request_failed
+http://guardnet.ir/f/c1c9dac9705c	request_failed
+https://search.bertina.ir/	request_failed
+
+=== 2026-04-01 11:50:34 - 失效订阅 (11 个) ===
+https://suba.f2vip.net/api/v1/client/subscribe?token=9f10323936c22442ca476fb578543789	request_failed
+https://suba.f2vip.net/api/v1/client/subscribe?token=ca1fa676b94f6302108c7597d1de3eae	request_failed
+https://suba.f2vip.net/api/v1/client/subscribe?token=dfb1122e73c12d4e27a649c515e09426	request_failed
+https://suba.f2vip.net/api/v1/client/subscribe?token=29a63c2d45a665719d17851f624bb1c6	request_failed
+https://suba.f2vip.net/api/v1/client/subscribe?token=7b9bd6a7b58fc2f61e1e07d4216ca5cf	request_failed
+https://suba.f2vip.net/api/v1/client/subscribe?token=9299aa5a3b1500f22bd6cfb396d5b5f3	request_failed
+https://suba.f2vip.net/api/v1/client/subscribe?token=d627ad7b0dc56c6b097149597e34a486	request_failed
+https://suba.f2vip.net/api/v1/client/subscribe?token=2a42ebc2187e0bc51d06b20b532b12f5	request_failed
+https://suba.f2vip.net/api/v1/client/subscribe?token=79d2e747646dd9987126227d2d482d62	request_failed
+https://suba.f2vip.net/api/v1/client/subscribe?token=7a6fa8d3743ae712d956c7a0471f1a24	request_failed
+https://suba.f2vip.net/api/v1/client/subscribe?token=0fdd1a2cb6ec230b5e8ea0b1f1f0f3db	request_failed
