@@ -2997,3 +2997,29 @@ http://87.107.146.4/	request_failed
 http://5.202.133.117/	request_failed
 https://my.files.ir/drive/s/q4UkZrorYGZgVqNJpYo3FOTuHR5tyTa	request_failed
 https://twitter.com/iSegaro	download_failed
+
+=== 2026-04-04 11:21:34 - 失效订阅 (17 个) ===
+https://www.applnn.com/4392.html	http_403
+http://www	request_failed
+http://www.%E9%A5%AD%E5%A4%AA%E7%A1%AC.com/tv/	request_failed
+https://limiaocloud.org/s/8c3f3f02a4c4d8cdfaf0e44a9116ff3b	http_403
+https://1.649844.xyz/s/fdd91b28eb8994fc49c452f706c28274	http_403
+https://limiaocloud.org/s/b5b4ccec4715d00d00cb199b2982db22	http_403
+https://sub.zhilian.best/getjiedian/846c636c45dd97c79a390bd347188655	request_failed
+https://sub.zhilian.best/getjiedian/92ea94bd39b80424a044fea1833df91e	request_failed
+https://sub.zhilian.best/getjiedian/d058d7ea4de9390b35ba712a6f822c3f	request_failed
+https://sub.zhilian.best/getjiedian/71f728d1e38284d83074dc97013c30ce	request_failed
+https://sub.zhilian.best/getjiedian/c9201efaa9bf18c74a6a3fd333b1d7d9	request_failed
+https://sub.zhilian.best/getjiedian/a0c6d123178d402e01dcf93534dc3b13	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?.GLS=NllUk	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%21Ph=	request_failed
+https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=8a709af13b2eb9d8bcf3cdc876075dea	request_failed
+https://igdux.top/GdTz	request_failed
+https://guardnet.ir/?view=1775220498_f3c6b20d.ogg	request_failed
+
+=== 2026-04-04 11:21:57 - 失效订阅 (5 个) ===
+https://paste.c-net.org/CampsPunched	request_failed
+https://lyly.649844.xyz/s/6c9c75cbd6c9972a207657eb46f7a2ab	http_403
+https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=73e55c1d1af350b80253f87f2ce04c1a	request_failed
+https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=715e616f824ea64cef1bb4f5bcf8dee5	request_failed
+https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=e813f6394af7364bb96f24fe775c9904	request_failed
