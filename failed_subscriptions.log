@@ -3075,3 +3075,25 @@ https://aeza.net/?ref=416842	request_failed
 === 2026-04-05 11:43:52 - 失效订阅 (2 个) ===
 https://sus.clodom.link/cloud/link/detail/4e63d694ba7952bad9c9124677928abd	http_404
 https://zhilian.best/getjiedian/fc2cb41a4bcde79dc87e6c1005e3f744	http_403
+
+=== 2026-04-06 11:46:23 - 失效订阅 (17 个) ===
+https://love.52pokemon66.cc/register?code=chtIHEwu	request_failed
+https://ec5smonchl973s.wca1rs59sefb1kl655b0.online/#/register?code=HmQ1LBpQ	request_failed
+https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=02c5000650c146a019a713f4c44ff33f	request_failed
+https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=d478fd8d06b0b0544ffc0ad721dc7541	request_failed
+https://pgbps.ccwu.cc/sub?token=401e38f6bbfd4d0071c2688fcbc2b4a9	request_failed
+https://52pokemon.yunjnet.com/api/v1/client/subscribe?token=4a0e7bc42b5c11fc4455fabaa262ca21	request_failed
+https://ip.ikez.dpdns.org/sub?host=fr.eva.hidns.co&amp;uuid=8e34e170-13ae-4892-9d20-05962acc9f84&amp;path=%2F&amp;sni=fr.eva.hidns.co&amp;type=none&amp;alpn=&amp;alterid=0&amp;security=auto	http_202
+http://=@42.193.223.178:10002/#%E4%B8%AD%E5%9B%BD-%E5%8F%B0%E5%8C%97%E7%8B%AC%E4%BA%AB%E4%B8%93%E7%BA%BF	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?-K.2=-3B	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?0FaQN=~	request_failed
+https://github.com/free18/v2ray/blob/5adfd6c5/README.md?plain=1#L3-L7	http_429
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Barabama/FreeNodes/master/nodes/halekj.txt	request_failed
+https://raw.githubusercontent.com/gfpcom/free-proxy-list/main/list/vmess.txt	http_404
+https://raw.githubusercontent.com/cxr9912/cxr2022/refs/heads/main/ss2088.txt	http_404
+https://guardnet.ir/uploads/1775435930_6f2ebac5.ogg	request_failed
+https://guardnet.ir/?view=1775413268_4e5ed413.ogg	request_failed
+https://guardnet.ir/uploads/1775392964_63566500.ogg	request_failed
+
+=== 2026-04-06 11:46:45 - 失效订阅 (1 个) ===
+https://api.efanyunapi.com/clash/472189/S37F3UG1s9	http_500
