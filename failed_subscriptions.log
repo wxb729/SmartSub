@@ -3267,3 +3267,35 @@ https://sudaji.eepzau.org/api/v1/client/subscribe?token=fed8a35a2dbde11ca1e58096
 https://suba.f2vip.net/api/v1/client/subscribe?token=aca29512e06f31f0af911df5b5810825	http_403
 https://suba.f2vip.net/api/v1/client/subscribe?token=c9ad44f4ceee014190178d1fcd3a2de2	http_403
 https://suba.f2vip.net/api/v1/client/subscribe?token=3e340bc2a054854937ebc8049df60906	http_403
+
+=== 2026-04-09 11:34:08 - 失效订阅 (26 个) ===
+https://www.applnn.com/42698.html	http_403
+https://suba.f2vip.net/api/v1/client/subscribe?token=a44be8ec598fcc90f4846884de1d2651	request_failed
+https://suba.f2vip.net/api/v1/client/subscribe?token=fbc847a512cba3ce604819abf1f75e69	request_failed
+https://suba.f2vip.net/api/v1/client/subscribe?token=075123eead1a195b077f8ea29ab2691d	request_failed
+https://suba.f2vip.net/api/v1/client/subscribe?token=5e0be3bb578c8cf69905a7cbfdf271bd	request_failed
+https://v2rayse.com/fs/public/20260406/0gkmc44.txt	request_failed
+https://v2rayse.com/fs/public/20260404/p6q13sy.json	request_failed
+https://v2rayse.com/fs/public/20260407/l95svv6.txt	request_failed
+https://v2rayse.com/fs/public/20260401/4aac2ff.json	request_failed
+https://v2rayse.com/fs/public/20260408/kk0jmj1.txt	request_failed
+https://v2rayse.com/fs/public/20260401/q2i86gi.yaml	request_failed
+https://v2rayse.com/fs/public/20260402/nzzluua.yaml	request_failed
+https://v2rayse.com/fs/public/20260405/swff1p4.txt	request_failed
+https://v2rayse.com/fs/public/20260407/0dl8wqp.json	request_failed
+https://v2rayse.com/fs/public/20260401/lcuvffe.txt	request_failed
+https://v2rayse.com/fs/public/20260404/r5cd8i7.yaml	request_failed
+https://v2rayse.com/fs/public/20260404/2de7df4.json	request_failed
+https://v2rayse.com/fs/public/20260403/lb7hsi4.json	request_failed
+http://platform.minimaxi.com/subscribe/token-plan	request_failed
+https://suba.f2vip.net/api/v1/client/subscribe?token=b13a2edf5d66de24793e245e0f66e143	request_failed
+https://ip.ikez.dpdns.org/sub?host=q.ikez.dpdns.org&amp;uuid=8e34e170-13ae-4892-9d20-05962acc9f84&amp;path=%2F&amp;sni=q.ikez.dpdns.org&amp;type=---&amp;alpn=&amp;alterid=0&amp;security=auto	http_202
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%28~=	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%292jz=	request_failed
+http://2.188.21.2/	request_failed
+http://guardnet.ir/uploads/1775653330_87d0fbf7.ogg	request_failed
+https://pastehub.ir/get/file-688740-2074733040	request_failed
+
+=== 2026-04-09 11:34:30 - 失效订阅 (2 个) ===
+https://suba.f2vip.net/api/v1/client/subscribe?token=236ea8f16f511b803abf6d368ae6114f	request_failed
+https://suba.f2vip.net/api/v1/client/subscribe?token=f6317f324e581abdd5f46e5f619c44c1	request_failed
