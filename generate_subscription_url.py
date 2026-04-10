@@ -27,213 +27,113 @@ class SubscriptionURLGenerator:
 
         self.telegram_chat_id = os.getenv('TELEGRAM_CHAT_ID')
 
-    def create_or_update_github_gist(self, nodes_file, description="High Quality Proxy Nodes"):
+def create_or_update_github_gist(self, nodes_file, description="High Quality Proxy Nodes"):
+    """
+    创建或更新GitHub Gist并返回订阅URL
+    优先更新已有的Gist,如果不存在则创建新的
+    Gist ID 保存在 .gist_id 文件中
+    Returns:
+        (txt_url, yaml_url)   # 两个永久 raw 链接
+    """
+    if not self.github_token:
+        logger.warning('⚠️ 未配置 GITHUB_TOKEN，无法创建/更新Gist')
+        return None
 
-        """
+    try:
+        # ---------- 读取节点 ----------
+        with open(nodes_file, 'r', encoding='utf-8') as f:
+            nodes_content = f.read()
 
-        创建或更新GitHub Gist并返回订阅URL
+        # ---------- 生成 Base64 ----------
+        b64_content = base64.b64encode(nodes_content.encode('utf-8')).decode('utf-8')
 
-        优先更新已有的Gist,如果不存在则创建新的
+        # ---------- 统一准备要写入 Gist 的文件 ----------
+        # subscription.txt : Base64 版（兼容旧客户端）
+        # subscription.yaml : 明文 YAML（直接读取）
+        gist_files = {
+            'subscription.txt':   {'content': b64_content},
+            'subscription.yaml':  {'content': nodes_content}
+        }
 
-        Gist ID 保存在 .gist_id 文件中
+        # ---------- Gist ID 读取 ----------
+        headers = {
+            'Authorization': f'token {self.github_token}',
+            'Accept': 'application/vnd.github.v3+json'
+        }
 
-        Args:
+        gist_id_file = os.path.join(os.path.dirname(nodes_file), '.gist_id')
+        existing_gist_id = os.getenv('GIST_ID')
+        if not existing_gist_id and os.path.exists(gist_id_file):
+            try:
+                with open(gist_id_file, 'r', encoding='utf-8') as f:
+                    existing_gist_id = f.read().strip()
+                logger.info(f'📝 发现本地 Gist ID: {existing_gist_id[:8]}...')
+            except Exception:
+                pass
+        elif existing_gist_id:
+            logger.info(f'📝 使用环境变量 GIST_ID: {existing_gist_id[:8]}...')
 
-            nodes_file: 节点文件路径
-
-            description: Gist描述
-
-        Returns:
-
-            订阅URL（raw内容URL）
-
-        """
-
-        if not self.github_token:
-
-            logger.warning('⚠️ 未配置 GITHUB_TOKEN，无法创建/更新Gist')
-
-            return None
-
-        try:
-
-            # 读取节点内容并Base64编码
-
-            with open(nodes_file, 'r', encoding='utf-8') as f:
-
-                nodes_content = f.read()
-
-            # Base64编码（订阅格式）
-
-            b64_content = base64.b64encode(nodes_content.encode('utf-8')).decode('utf-8')
-
-            headers = {
-
-                'Authorization': f'token {self.github_token}',
-
-                'Accept': 'application/vnd.github.v3+json'
-
+        # ---------- 1️⃣ 尝试更新已有 Gist ----------
+        if existing_gist_id:
+            update_url = f'https://api.github.com/gists/{existing_gist_id}'
+            update_data = {
+                'description': description,
+                'files': gist_files
             }
-
-            # 检查是否存在已保存的 Gist ID
-
-            # 优先级: 环境变量(Secrets) > 本地文件
-
-            gist_id_file = os.path.join(os.path.dirname(nodes_file), '.gist_id')
-
-            existing_gist_id = os.getenv('GIST_ID')
-
-            if not existing_gist_id and os.path.exists(gist_id_file):
-
-                try:
-
-                    with open(gist_id_file, 'r', encoding='utf-8') as f:
-
-                        existing_gist_id = f.read().strip()
-
-                    logger.info(f'📝 发现本地 Gist ID: {existing_gist_id[:8]}...')
-
-                except:
-
-                    pass
-
-            elif existing_gist_id:
-
-                logger.info(f'📝 使用环境变量 GIST_ID: {existing_gist_id[:8]}...')
-
-            # 尝试更新已有的 Gist
-
-            if existing_gist_id:
-
-                update_url = f'https://api.github.com/gists/{existing_gist_id}'
-
-                update_data = {
-
-                    'description': description,
-
-                    'files': {
-
-                        'subscription.txt': {
-
-                            'content': b64_content
-
-                        }
-
-                    }
-
-                }
-
-                response = requests.patch(update_url, json=update_data, headers=headers, timeout=10)
-
-                if response.status_code == 200:
-
-                    result = response.json()
-
-                    gist_url = result['html_url']
-
-                    raw_url = result['files']['subscription.txt']['raw_url']
-
-                    # 🔧 修复：转换为永久链接（去掉版本 hash）
-
-                    # 原格式: https://gist.githubusercontent.com/用户名/gist_id/raw/版本hash/文件名
-
-                    # 新格式: https://gist.githubusercontent.com/用户名/gist_id/raw/文件名
-
-                    # 永久链接会自动指向最新版本，不会因更新而失效
-
-                    permanent_url = raw_url.split('/raw/')[0] + '/raw/subscription.txt'
-
-                    logger.info(f'✅ Gist更新成功 (复用已有链接)')
-
-                    logger.info(f'   Gist页面: {gist_url}')
-
-                    logger.info(f'   订阅URL（永久）: {permanent_url}')
-
-                    return permanent_url
-
-                else:
-
-                    logger.warning(f'⚠️ Gist更新失败 (HTTP {response.status_code})，将创建新的Gist')
-
-                    existing_gist_id = None  # 标记为无效,创建新的
-
-            # 创建新的 Gist
-
-            if not existing_gist_id:
-
-                create_url = 'https://api.github.com/gists'
-
-                create_data = {
-
-                    'description': description,
-
-                    'public': False,  # 私密Gist
-
-                    'files': {
-
-                        'subscription.txt': {
-
-                            'content': b64_content
-
-                        }
-
-                    }
-
-                }
-
-                response = requests.post(create_url, json=create_data, headers=headers, timeout=10)
-
-                if response.status_code == 201:
-
-                    result = response.json()
-
-                    gist_id = result['id']
-
-                    gist_url = result['html_url']
-
-                    raw_url = result['files']['subscription.txt']['raw_url']
-
-                    # 🔧 修复：转换为永久链接（去掉版本 hash）
-
-                    permanent_url = raw_url.split('/raw/')[0] + '/raw/subscription.txt'
-
-                    # 保存 Gist ID 以便下次更新
-
-                    try:
-
-                        with open(gist_id_file, 'w', encoding='utf-8') as f:
-
-                            f.write(gist_id)
-
-                        logger.info(f'💾 已保存 Gist ID 到 {gist_id_file}')
-
-                    except Exception as e:
-
-                        logger.warning(f'⚠️ 保存 Gist ID 失败: {e}')
-
-                    logger.info(f'✅ Gist创建成功')
-
-                    logger.info(f'   Gist ID: {gist_id}')
-
-                    logger.info(f'   Gist页面: {gist_url}')
-
-                    logger.info(f'   订阅URL（永久）: {permanent_url}')
-
-                    return permanent_url
-
-                else:
-
-                    logger.error(f'❌ Gist创建失败: HTTP {response.status_code}')
-
-                    logger.error(f'   {response.text}')
-
-                    return None
-
-        except Exception as e:
-
-            logger.error(f'❌ Gist操作异常: {e}')
-
+            response = requests.patch(update_url, json=update_data,
+                                      headers=headers, timeout=10)
+            if response.status_code == 200:
+                result = response.json()
+                raw_url = result['files']['subscription.txt']['raw_url']
+                # 同时取明文的 raw_url（结构相同，只是文件名不同）
+                txt_url  = raw_url.split('/raw/')[0] + '/raw/subscription.txt'
+                yaml_url = raw_url.split('/raw/')[0] + '/raw/subscription.yaml'
+                logger.info('✅ Gist更新成功 (复用已有链接)')
+                logger.info(f'   Gist页面: {result["html_url"]}')
+                logger.info(f'   Base64 订阅URL（永久）: {txt_url}')
+                logger.info(f'   明文 YAML 订阅URL（永久）: {yaml_url}')
+                return txt_url, yaml_url
+            else:
+                logger.warning(f'⚠️ Gist更新失败 (HTTP {response.status_code})，将创建新的 Gist')
+                existing_gist_id = None   # 失效后改为新建
+
+        # ---------- 2️⃣ 创建新的 Gist ----------
+        create_url = 'https://api.github.com/gists'
+        create_data = {
+            'description': description,
+            'public': False,   # 私密 Gist
+            'files': gist_files
+        }
+        response = requests.post(create_url, json=create_data,
+                                 headers=headers, timeout=10)
+        if response.status_code == 201:
+            result = response.json()
+            gist_id = result['id']
+            raw_url = result['files']['subscription.txt']['raw_url']
+            txt_url  = raw_url.split('/raw/')[0] + '/raw/subscription.txt'
+            yaml_url = raw_url.split('/raw/')[0] + '/raw/subscription.yaml'
+
+            # 保存 Gist ID，供后续更新使用
+            try:
+                with open(gist_id_file, 'w', encoding='utf-8') as f:
+                    f.write(gist_id)
+                logger.info(f'💾 已保存 Gist ID 到 {gist_id_file}')
+            except Exception as e:
+                logger.warning(f'⚠️ 保存 Gist ID 失败: {e}')
+
+            logger.info('✅ Gist创建成功 (包含 subscription.txt 与 subscription.yaml)')
+            logger.info(f'   Gist ID: {gist_id}')
+            logger.info(f'   Base64 订阅URL（永久）: {txt_url}')
+            logger.info(f'   明文 YAML 订阅URL（永久）: {yaml_url}')
+            return txt_url, yaml_url
+        else:
+            logger.error(f'❌ Gist创建失败: HTTP {response.status_code}')
+            logger.error(f'   {response.text}')
             return None
+
+    except Exception as e:
+        logger.error(f'❌ Gist操作异常: {e}')
+        return None
 
     def create_subscription_with_converter(self, nodes_file):
 
@@ -261,7 +161,7 @@ class SubscriptionURLGenerator:
 
             converters = [
 
-                'https://api.dler.io',
+                'https://api.dler.io'，
 
                 'https://sub.xeton.dev',
 
@@ -364,10 +264,14 @@ class SubscriptionURLGenerator:
         gist_url = self.create_or_update_github_gist(nodes_file)
 
         if gist_url:
+            txt_url, yaml_url = gist_urls
+            # ---- 把两个链接都写进 Telegram 文本 ----
 
             message_parts.append("\n*方案1: GitHub Gist订阅* ⭐推荐\n")
 
-            message_parts.append(f"`{gist_url}`\n")
+            message_parts.append(f"- Base64 版  : `{txt_url}`\n")
+            
+            message_parts.append(f"- 明文 YAML版: `{yaml_url}`\n")
 
             message_parts.append("\n💡 *使用方法*:\n")
 
