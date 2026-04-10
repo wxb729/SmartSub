@@ -161,7 +161,7 @@ def create_or_update_github_gist(self, nodes_file, description="High Quality Pro
 
             converters = [
 
-                'https://api.dler.io'，
+                'https://api.dler.io',
 
                 'https://sub.xeton.dev',
 
