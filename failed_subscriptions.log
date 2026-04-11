@@ -3423,3 +3423,25 @@ http://172.253.12.156/	request_failed
 
 === 2026-04-10 11:47:28 - 失效订阅 (1 个) ===
 https://cloud.lanpanyun.store/link/6b7fe453e9ee8d1e4a481bb0024ddb7e	http_403
+
+=== 2026-04-11 11:24:53 - 失效订阅 (20 个) ===
+https://xship.top/v1/subscribe?starlink=qQF1plCfdKF6qPJbFAewdTOa	http_403
+https://suba.f2vip.net/api/v1/client/subscribe?token=9325c1d39e9f4ed8ea24ef05c34ce59c	request_failed
+https://suba.f2vip.net/api/v1/client/subscribe?token=a62c01cc0cf4cb70a7e549759e49d995	request_failed
+https://s1.byte33.com/api/v1/client/subscribe?token=daf4ab8b7e6c9ea472ea787a72b2f18d	http_403
+https://suba.f2vip.net/api/v1/client/subscribe?token=9f9b9761bf4ddf927d7e560ed856dd5d	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?-K._=-PV	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%21r0~=%29RRdk	request_failed
+https://github.com/free18/v2ray/blob/5adfd6c5/vpn.md?plain=1#L1-L2	http_429
+http://goftino.com/c/BNkxeq	request_failed
+https://guardnet.ir/uploads/1775868197_63422264.ogg	request_failed
+http://kalbod-team.ir/f/b8f4f4bbe5b54cdb	request_failed
+http://kalbod-team.ir/f/de68fe4ef4ed461c	request_failed
+http://kalbod-team.ir/f/6d471863bd2b4d45	request_failed
+http://kalbod-team.ir/f/0df70ed0927b4070	request_failed
+http://kalbod-team.ir/f/9721f3e2fb0040e9	request_failed
+http://kalbod-team.ir/f/8316ab926220486f	request_failed
+http://kalbod-team.ir/f/e829c1a87c1145b8	request_failed
+http://kalbod-team.ir/f/f658e548e7d14e53	request_failed
+http://kalbod-team.ir/f/10d68dc2c9de4484	request_failed
+https://guardnet.ir/uploads/1775827334_675db652.ogg	request_failed
