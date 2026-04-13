@@ -1663,14 +1663,11 @@ class NodeQualityFilter:
 
             if proxy_url:
 
-                async with httpx.AsyncClient(timeout=timeout, proxies=proxy_url) as proxy_client:
-                @@
--               async with httpx.AsyncClient(timeout=timeout, proxies=proxy_url) as proxy_client:
-+               # 兼容不同 httpx 版本的代理写法（有的版本使用 `proxy=`）
-+               async with httpx.AsyncClient(
-+                    timeout=timeout,
-+                    **({"proxies": proxy_url} if "proxies" in httpx.AsyncClient.__init__.__code__.co_varnames else {"proxy": proxy_url})
-+                ) as proxy_client:
+                # 兼容不同 httpx 版本的代理写法（有的版本使用 `proxy=`）
+                async with httpx.AsyncClient(
+                    timeout=timeout,
+                    **({"proxies": proxy_url} if "proxies" in httpx.AsyncClient.__init__.__code__.co_varnames else {"proxy": proxy_url})
+                 ) as proxy_client:
 
                     results = await self._gather_connectivity(nodes, api_client, proxy_client, sem, batch_idx, skip_cn)
 
