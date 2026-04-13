@@ -3464,3 +3464,44 @@ https://guardts.ir/f/13dc84eb7b36	request_failed
 
 === 2026-04-12 11:51:41 - 失效订阅 (1 个) ===
 http://zkwn.plan.jpn.im/be89fe38a19ca8b3a97887192fb51e2a	request_failed
+
+=== 2026-04-13 10:04:44 - 失效订阅 (35 个) ===
+http://104.18.12.149/	http_403
+http://104.18.13.149/	http_403
+https://sourceforge.net/	http_403
+https://flzios.ir/	request_failed
+https://flzios.ir	request_failed
+http://kalbod-team.ir/f/dd285b92c8364b65	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%28AuOO=c	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%2A5vq=%2AYz	request_failed
+https://opengraph.githubassets.com/6fd81f1d0c2e596c35eadd1145bbe98c6484a6292403d694cfba47373894ba0c/ermaozi/get_subscribe	http_429
+https://rio.ggusers.com/Series	request_failed
+https://dl2.sermoviedown.pw	request_failed
+https://cup.theazizi.ir/	request_failed
+https://dl2.sermoviedown.pw/	request_failed
+https://www.myf2mi.top	request_failed
+https://www.myf2mi.top/	request_failed
+http://kalbod-team.ir/f/797d33a0f34c46c2	request_failed
+https://www.oldtowns.top/	request_failed
+https://3fa.ir/	request_failed
+https://www.oldtowns.top	request_failed
+https://www.f2me.top/	request_failed
+https://www.daneshpaz.top	request_failed
+https://subzone.ir	request_failed
+https://www.daneshpaz.top/	request_failed
+https://subzone.ir/	request_failed
+https://berlin.saymyname.website/	request_failed
+https://berlin.saymyname.website	request_failed
+https://pastehub.ir/get/file-131443-2828146135	request_failed
+https://www.f2me.top	request_failed
+https://cup.theazizi.ir	request_failed
+https://nairobi.saymyname.website/Series	request_failed
+http://firstibox.com/music/	request_failed
+https://3fa.ir	request_failed
+https://guardts.ir/f/72268f6687fd	request_failed
+https://subkade.ir/	request_failed
+https://subkade.ir	request_failed
+
+=== 2026-04-13 10:05:08 - 失效订阅 (2 个) ===
+https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/clash-meta/all.yaml	http_404
+https://fm.sdnlv0.cn/api/v1/feima/subscribe?token=60f2914b5152e1b54e89c85610ede5db	http_403
