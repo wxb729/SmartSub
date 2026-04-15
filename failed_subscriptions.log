@@ -3572,3 +3572,47 @@ http://185.159.154.152/	request_failed
 === 2026-04-14 11:48:32 - 失效订阅 (2 个) ===
 https://mojie.app/api/v1/client/subscribe?token=dd35aa2c21928281ba77565fa76f928e	http_403
 https://onlysub.mjurl.com/api/v1/client/subscribe?token=9f624f46d8f424547f578e1f1839d5d9	http_403
+
+=== 2026-04-15 11:46:43 - 失效订阅 (38 个) ===
+http://chatgpt.com/cyber	http_403
+http://openai.com/index/scaling-trusted-access-for-cyber-defense/	http_403
+https://chatgpt.com/cyber	http_403
+http://claude.ai/code/routines	http_403
+https://fm.sdnlv0.cn/api/v1/feima/subscribe?token=f361731e43b96ef7a0ae91bb1b07c5ff	http_403
+https://guardnet.ir/f/0b6618ab0f9b	request_failed
+https://guardnet.ir/f/eb9ae1622b4f	request_failed
+http://185.206.92.250/	request_failed
+http://185.24.255.80/	request_failed
+http://176.65.240.86/	request_failed
+http://185.83.91.3/	request_failed
+http://109.230.78.13/	request_failed
+http://185.231.181.206/	request_failed
+http://178.252.178.205/	request_failed
+http://178.252.147.146/	request_failed
+http://109.230.72.243/	request_failed
+http://185.125.244.3/	request_failed
+http://185.208.148.211/	request_failed
+http://185.24.255.148/	request_failed
+http://185.206.238.3/	request_failed
+http://178.252.147.84/	request_failed
+http://109.125.169.20/	request_failed
+http://109.125.136.149/	request_failed
+http://185.159.153.254/	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%28BEv=p	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%21%29hs.=fLD8SMkDG%3AUfrG5M%7C2_fD%3AlTij%21JjJ%216jJ79	request_failed
+http://185.51.201.243/	request_failed
+http://109.95.61.243/	request_failed
+http://185.128.138.2/	request_failed
+http://109.230.79.12/	request_failed
+http://185.112.36.134/	request_failed
+http://185.181.183.56/	request_failed
+http://185.112.36.64/	request_failed
+http://185.172.215.219/	request_failed
+https://github.com/free18/v2ray/blob/5adfd6c5/README.md?plain=1#L15-L21	http_429
+http://178.173.144.224/	request_failed
+http://185.8.174.140/	request_failed
+https://syragpt.ir/jaryan/down/fbbb8d62157cd7d4805eb06a.php	request_failed
+
+=== 2026-04-15 11:47:06 - 失效订阅 (2 个) ===
+https://liangxin.xyz/api/v1/liangxin?OwO=37aba7ea67ebbff7dcdb860ffceb721b	http_403
+https://mojie.app/api/v1/client/subscribe?token=e40ab7a05579e112c4e3a7910724e82c	http_403
