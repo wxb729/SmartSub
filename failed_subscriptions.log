@@ -3677,3 +3677,28 @@ https://muma16fx.netlify.app	request_failed
 https://dy11.baipiaoyes.com/api/v1/client/subscribe?token=342c1dfe82cf373b865c3f38f41b2c54	http_403
 https://onlysub.mjurl.com/api/v1/client/subscribe?token=a9ef6dc59b00b6fb028c82b48a8a681c	http_403
 https://sovql.xn--fiq63fnvb6zglxgxnhmdz73nrmhul7ax10cca.com/api/v1/client/subscribe?token=902ed448c347d7b3ad38cddcafcf228a	http_403
+
+=== 2026-04-17 11:50:24 - 失效订阅 (18 个) ===
+http://openai.com/index/codex-for-almost-everything/	http_403
+http://v2rayse.com/fs	http_404
+https://sub.zlwl.org/s/176ba52ddccd7d7b3694af6156f1da51	http_403
+https://sub.zlwl.org/s/10f7345e8fcfbe8463c4344813886b77	http_403
+https://sub.zlwl.org/s/46b0b75d80436174d045f72b3b5517f3	http_403
+https://sub.zlwl.org/s/f54a8f8682b1ed85a8d9914679093279	http_403
+https://liangxin.xyz/api/v1/liangxin?OwO=8f067b200faeef2df62657ef31b9c0e7	http_403
+https://linuxdo.icmpmiao.cc/clash?config=vless%3A%2F%2F5c1c709e-bac2-4c22-9a10-a3fccb7329cb%40166.0.188.82%3A10016%3Fencryption%3Dnone%26flow%3Dxtls-rprx-vision%26fp%3Dchrome%26pbk%3Dmb7yoBOt8KBmFFnG-iru4XBQoWvJUsQgfqVNwr4nt3A%26security%3Dreality%26sid%3Da4d4fbc71b%26sni%3Dwww.nvidia.com%26spx%3D%252FnrCODVXRQkAzpYu%26type%3Dtcp%23AK-5d3bbja9v-300.00GB%25F0%259F%2593%258A&amp;ua=&amp;selectedRules=%22comprehensive%22&amp;customRules=%5B%5D	http_500
+https://sub.zlwl.org/s/d1a7812763c32ed3780fee6b82772f02	http_403
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%21%21-A=%7B%22%21%21aa%22%3A%22El%22%2C%22%21%21aRi%22%3A%228O%21P9vpR7v%22%2C%22%21%2190%22%3A%22%22%2C%22%21%21%21a%22%3A%22.e%22%7D	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%21rLK=DbQnQ	request_failed
+https://guardnet.ir/f/a2442e9e9216	request_failed
+https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/South%20Africa/config.txt	http_404
+https://guardnet.ir/f/d1c29884972d	request_failed
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Barabama/FreeNodes/master/nodes/merged.txt	request_failed
+https://github.com/MrMohebi/xray-proxy-grabber-telegram/raw/master/collected-proxies/row-url/all.txt	http_404
+http://79.175.151.187/	request_failed
+https://guardts.ir/f/Pewezaadmin	request_failed
+
+=== 2026-04-17 11:50:46 - 失效订阅 (3 个) ===
+https://sub.zlwl.org/s/56a8a22dcb7a911ef22ab61bd0812917	http_403
+https://sub.zlwl.org/s/3137b361bb164acc7e79f65c8275b287	http_403
+https://www.yfjc.xyz/api/v1/client/subscribe?token=3400b86443e29cb49ab685e1fcf5afaa	http_403
