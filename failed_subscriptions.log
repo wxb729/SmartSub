@@ -3891,3 +3891,26 @@ https://guardnet.ir/f/60a53dc030aa	request_failed
 === 2026-04-19 11:55:15 - 失效订阅 (2 个) ===
 https://pvsmi.no-mad-sub.one/link/pGx0WM9WgVZjILka?clash=3&amp;extend=1	request_failed
 https://uecrt.no-mad-sub.one/link/6B5qoBrGsC2f9ZKB?clash=3&amp;extend=1	request_failed
+
+=== 2026-04-20 11:57:07 - 失效订阅 (21 个) ===
+https://dash.yunso.net/	http_403
+https://dash.yunso.net	http_403
+https://nacho-dy1.moelink.top/Nachoneko?k=f1ce193fba5bedaf0a84e724f12f388c	http_401
+https://www.proxyqueen.top/	request_failed
+https://proxyqueen.top	request_failed
+http://94.101.186.25/	request_failed
+http://217.218.74.101/	request_failed
+https://guardnet.ir/f/8d8727864246	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?0I6=3	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%21y=	request_failed
+https://github.com/free18/v2ray/blob/5adfd6c5/README.md?plain=1#L92-L107	http_429
+http://2.184.70.50/	request_failed
+http://37.152.190.145/	request_failed
+http://85.133.145.246/	request_failed
+http://85.9.104.72/	request_failed
+http://185.208.183.29:53/	request_failed
+http://91.222.197.45/	request_failed
+http://85.133.185.173/	request_failed
+http://95.130.58.40/	request_failed
+http://31.7.78.205:53/	request_failed
+http://80.75.14.102:53/	request_failed
