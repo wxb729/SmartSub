@@ -3975,3 +3975,17 @@ http://5.160.1.42/	request_failed
 https://raw.githubusercontent.com/mermeroo/free-v2ray-collector/main/main/shadowsocks	http_404
 http://45.148.250.241/	request_failed
 https://github.com/MrMohebi/xray-proxy-grabber-telegram/raw/master/collected-proxies/clash-meta/all.yaml	http_404
+
+=== 2026-04-22 11:46:45 - 失效订阅 (12 个) ===
+https://www.applnn.com/36232.html	http_403
+https://suba.f2vip.net/api/v1/client/subscribe?token=9cccb9712a8b77fc6fdf842888ff04c6	http_403
+https://subcrib.vpnmiao.site/s/a6e12ea42faf8286c8d46b658f2db46a	http_403
+https://v.vivia.cc.cd/A	request_failed
+http://cup.theazizi.ir/	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%29hWO=	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?1DPq=4GM%29F	request_failed
+https://guardts.ir/f/c3db8745527c	request_failed
+https://guardnet.ir/f/a6cc2d81840c	request_failed
+https://guardnet.ir/f/53e5c7e07709	request_failed
+http://217.219.34.66/	request_failed
+https://pastehub.ir/get/file-366927-1458874056	request_failed
