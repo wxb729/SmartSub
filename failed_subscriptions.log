@@ -4766,3 +4766,13 @@ https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-conf
 
 === 2026-05-03 12:28:42 - 失效订阅 (1 个) ===
 https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=6b5e82f942dcefc3be5fda9cb7138ba0	http_403
+
+=== 2026-05-04 12:16:27 - 失效订阅 (8 个) ===
+https://github.com/adm1nSQL/ddns_push	http_404
+https://seup.shop/f/shh0	request_failed
+https://seup.shop/f/udao	request_failed
+http://81.12.107.242/	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%297=	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%28%2180FG=wMQ%28Z	request_failed
+http://37.32.20.64/	request_failed
+http://93.118.142.196/	request_failed
