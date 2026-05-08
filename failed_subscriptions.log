@@ -5188,3 +5188,49 @@ http://188.213.65.54:53/	request_failed
 
 === 2026-05-07 12:12:46 - 失效订阅 (1 个) ===
 https://as.cnqq.de/q/23c31a3a6a2930a931dbb774c52ffff8	http_403
+
+=== 2026-05-08 11:59:18 - 失效订阅 (41 个) ===
+https://suba.f2vip.net/api/v1/client/subscribe?token=06a2e1a1d2bfadf280cb777384eb57a0	http_403
+https://suba.f2vip.net/api/v1/client/subscribe?token=10b8630b112a47dd945ed05d89e85cd0	http_403
+https://suba.f2vip.net/api/v1/client/subscribe?token=46bfc8aaba9d0fe5c362460218dbdb5c	http_403
+http://1234:1234@47.129.255.204:2080/#%E6%96%B0%E5%8A%A0%E5%9D%A1	http_407
+https://83.206.1.225:8090/#%E6%B3%95%E5%9B%BD	request_failed
+http://79.127.170.15/	request_failed
+http://156.146.33.97/	request_failed
+http://79.127.211.213/	request_failed
+http://173.245.58.0/	http_403
+http://207.211.215.145/	request_failed
+http://149.102.250.14/	request_failed
+http://217.219.133.161/	request_failed
+http://79.127.170.12/	request_failed
+https://punkpaste.ir/f/20260507-0DMzaO-nkws-cm9e4s	request_failed
+http://74.80.77.246/	request_failed
+http://216.147.121.181/	request_failed
+http://44.244.148.52/	request_failed
+http://74.80.77.245/	request_failed
+http://188.122.68.218/	request_failed
+http://74.63.24.206/	request_failed
+http://172.253.228.150/	request_failed
+http://62.60.136.105/	request_failed
+http://85.133.207.5/	request_failed
+http://37.148.15.105/	request_failed
+http://185.140.4.76/	request_failed
+http://188.122.68.216/	request_failed
+http://74.63.24.205/	request_failed
+http://74.63.24.211/	request_failed
+http://172.253.12.145/	request_failed
+http://74.80.77.247/	request_failed
+http://74.120.14.49/	request_failed
+http://46.164.99.102/	request_failed
+http://216.147.121.35/	request_failed
+http://185.129.215.43/	request_failed
+http://83.212.7.243/	request_failed
+http://74.63.24.208/	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%2AlSZ%2A_=wOOa~%3A%2F%2Fpl%2A_3cB_HmCJx5	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%28gfGG=L	request_failed
+https://opengraph.githubassets.com/c1b1a6a1c0d4879c382ea05f532df40b59f4a57ea03f663e7d33643a0c87fecb/ermaozi/get_subscribe	http_429
+https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/Indonesia/config.txt	http_404
+https://uploadgirl.ir/d/9f7c9410-1a56-4d39-9a27-c18f29ad4664	request_failed
+
+=== 2026-05-08 11:59:41 - 失效订阅 (1 个) ===
+https://hermes.xiaoyao-88.com/s/fc855e7d18c79fa73ba99ab4be30d088	request_failed
