@@ -9260,3 +9260,72 @@ https://9.9.9.9/dns-query&quot	request_failed
 
 === 2026-05-26 12:42:21 - 失效订阅 (1 个) ===
 https://s1-u2-b3.484845845.xyz/s/34ee269c1f061eaba048c5820c2e73f2	http_403
+
+=== 2026-05-27 12:54:55 - 失效订阅 (62 个) ===
+https://www.applnn.com/25544.html	http_403
+https://www.applnn.com/2305.html	http_403
+https://www.applnn.com/514.html	http_403
+https://www.applnn.com/34624.html	http_403
+http://gz-cloud.top/	http_403
+https://9kzt7.no-mad-world.club/link/BGXJnoupnkCAqjZI?clash=3&amp;extend=1	http_404
+https://yq8kx.no-mad-world.club/link/BGXJnoupnkCAqjZI?clash=3&amp;extend=1	http_404
+https://2.342242.icu/api/v1/client/subscribe?token=bf1d10c80f757842152819515ed0c2dd	http_403
+https://2.342242.icu/api/v1/client/subscribe?token=6abe5553135308a2165ffd30cbad0dec	http_403
+https://2.342242.icu/api/v1/client/subscribe?token=d477a5873ebf92ebdeee34740e82b12f	http_403
+https://2.342242.icu/api/v1/client/subscribe?token=5df8ff41a30c88fa831de28a317d246b	http_403
+https://2.342242.icu/api/v1/client/subscribe?token=7fdc1507d30a96587c53cb2889873be4	http_403
+https://2.342242.icu/api/v1/client/subscribe?token=8c2c18537b33490cac657ebf8e7d5f62	http_403
+https://2.342242.icu/api/v1/client/subscribe?token=244badb29dae6d5cd58f05596d9dc9e6	http_403
+https://2.342242.icu/api/v1/client/subscribe?token=780b7267d998f61381ee393949f1e974	http_403
+http://47.76.247.126:4832/auth/register?code=LUQ4	http_502
+http://23.55.176.228/	http_400
+http://23.49.140.235/	http_400
+https://apps.apple.com/us/app/octohide-vpn-fast-secure/id6443674175	request_failed
+http://23.47.124.76/	http_400
+http://23.47.124.89/	http_400
+http://23.49.140.191/	http_400
+http://23.49.136.174/	http_400
+http://23.55.176.230/	http_400
+http://23.47.124.73/	http_400
+http://23.47.49.246/	http_400
+http://23.47.124.91/	http_400
+http://23.49.22.132/	http_400
+http://23.49.25.145/	http_400
+http://23.49.5.211/	http_400
+http://23.47.124.92/	http_400
+http://23.47.124.82/	http_400
+http://23.49.109.91/	http_400
+http://23.47.112.185/	http_400
+http://23.47.112.247/	http_400
+http://1.12.12.12/32	http_404
+http://223.5.5.5/32	http_404
+http://223.6.6.6/32	http_404
+http://120.53.53.53/32	http_404
+http://218.30.118.6/32	request_failed
+http://101.226.4.6/32	request_failed
+http://119.29.29.29/32	http_404
+http://180.76.76.76/32	http_403
+http://123.125.81.6/32	request_failed
+http://doh.pub/	http_404
+https://apps.apple.com/us/app/platovpn-super-unlimited-proxy/id6444485605	request_failed
+https://apps.apple.com/app/id1370293473	request_failed
+https://apps.apple.com/us/app/cool-vpn-pro-secure-proxy-vpn/id1460130689	request_failed
+http://download-porter.hoyoverse.com/	http_403
+http://aws-link20.liangxin1.xyz/	request_failed
+http://23.49.60.57/	request_failed
+http://23.49.60.49/	request_failed
+http://23.49.60.65/	request_failed
+http://23.49.60.51/	request_failed
+http://140.207.198.6/32	request_failed
+http://114.114.115.115/32	request_failed
+http://180.184.1.1/32	request_failed
+http://114.114.114.114/32	request_failed
+http://180.184.2.2/32	request_failed
+http://198.18.0.0/15	request_failed
+http://dot.360.cn/	request_failed
+http://doh.360.cn/	request_failed
+
+=== 2026-05-27 12:55:31 - 失效订阅 (3 个) ===
+https://2.342242.icu/api/v1/client/subscribe?token=2b7ccd90eeff2d84c6a0f2b3c8bdcf15	http_403
+https://2.342242.icu/api/v1/client/subscribe?token=3b15662e1a8b6e42abe8221007371b6f	http_403
+https://2.342242.icu/api/v1/client/subscribe?token=cc616b0199920741b2feb7cfeb77df30	http_403
