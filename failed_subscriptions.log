@@ -9337,3 +9337,28 @@ https://xn--u0x064d.com/	request_failed
 https://danesh1118.github.io/jeeidhuwgehfbfoduee87hrbdoehfkfirjwohrorhfiwgtgdbfkehiebdofhrbrofjgr87hdn/	http_404
 https://apps.apple.com/us/app/hola-vpn/id1553473179	request_failed
 https://nobodydv.runflare.run/#share=95c23777-bf7d-462d-be6a-c4862fe6a61b	request_failed
+
+=== 2026-05-29 12:51:37 - 失效订阅 (19 个) ===
+http://74.82.50.5/	request_failed
+http://23.55.163.80/	http_400
+http://23.53.40.27/	http_400
+http://92.123.102.155/	http_400
+http://23.50.131.39/	http_400
+http://23.216.77.17/	http_400
+http://2.18.67.68/	http_400
+http://184.51.252.148/	http_400
+http://23.216.77.31/	http_400
+http://185.40.202.5/	request_failed
+http://80.78.247.254/	request_failed
+http://132.42.7.183/	request_failed
+http://209.244.0.4/	request_failed
+http://78.157.32.205/	request_failed
+http://209.244.0.3/	request_failed
+http://5.200.200.200/	request_failed
+http://216.146.35.35/	request_failed
+http://84.200.67.80/	request_failed
+http://56.122.207.174/	request_failed
+
+=== 2026-05-29 12:52:08 - 失效订阅 (2 个) ===
+https://app.farnet.top/s/cc1cf441ef2b288322779b6fff70ba76?flag=meta	request_failed
+https://2.342242.icu/api/v1/client/subscribe?token=8ce1658df573fc00ee80426003ab1ce6	http_403

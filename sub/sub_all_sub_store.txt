@@ -2,11 +2,10 @@
 
 
 https://sub.shadowproxy66.workers.dev/sub/214abfe9-791e-44ba-bd8e-0afe298119f6#ShadowProxy66
-https://ys.jiedianxielou.workers.dev:443
 https://srfux4zuwq.qinyues4.cc/5ef430af5b56abc014330269fd045864
-https://app.farnet.top/s/cc1cf441ef2b288322779b6fff70ba76?flag=meta
-https://mhxwfgsl.qjty1.buzz/api/v2/user/token/bd4946f594c2997bad3602142c69f1c0
+https://ys.jiedianxielou.workers.dev:443
 https://amber85.qjty.buzz/api/v2/user/token/1ab1bff4b30e1e439ef385dafe30e0e7
+https://mhxwfgsl.qjty1.buzz/api/v2/user/token/bd4946f594c2997bad3602142c69f1c0
 https://packet32.qjty.buzz/api/v2/user/token/ff1679f7a830ab760db281c5c6289938
 https://zkjrvbxy.qjty1.buzz/api/v2/user/token/e53732f31dea01ee1353f99d89d52e34
 https://steel68.qjty.buzz/api/v2/user/token/949a9f99a4d8b4a7432ae040d5b8955d
@@ -19,7 +18,6 @@ https://wylztxfq.qjty1.buzz/api/v2/user/token/308e6ee53eee87937f3a8c5c61b09b5c
 
 
 https://amber85.qjty.buzz/api/v2/user/token/1ab1bff4b30e1e439ef385dafe30e0e7
-https://app.farnet.top/s/cc1cf441ef2b288322779b6fff70ba76?flag=meta
 https://golden57.qjty.buzz/api/v2/user/token/4411a1d4c77f94d216ff9aa108cbc822
 https://mhxwfgsl.qjty1.buzz/api/v2/user/token/bd4946f594c2997bad3602142c69f1c0
 https://packet32.qjty.buzz/api/v2/user/token/ff1679f7a830ab760db281c5c6289938
