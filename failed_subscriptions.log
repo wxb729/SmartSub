@@ -9378,3 +9378,15 @@ http://c.jnir.my/	request_failed
 https://01.sogoyunaff.cc	request_failed
 https://opengraph.githubassets.com/4bdafc84af1c7350c426fbfb174285b210831f2e0eda55afc5d856562e3ec065/ermaozi/get_subscribe	http_429
 https://up.theazizi.ir/download.php?t=ecabdec17d6cbb16f37a13fe28c724cdb591	request_failed
+
+=== 2026-05-31 12:58:41 - 失效订阅 (5 个) ===
+https://sub.nnsub.win/api/v1/client/subscribe?token=5fc455006adca11d141bc5dcb11933e5	http_403
+https://fb.deng.lat/	request_failed
+https://pai.yt/clash	request_failed
+https://apps.apple.com/us/app/wireguard/id1441195209	request_failed
+http://1.3.3.0/	request_failed
+
+=== 2026-05-31 12:59:09 - 失效订阅 (3 个) ===
+https://sub.pai.yt/clash	request_failed
+https://dt.shdetai.cn/s/66b377cb2b710b10fab953c5eacc2cb2	request_failed
+https://pai.yt/base64?preset=other	request_failed
