@@ -9390,3 +9390,13 @@ http://1.3.3.0/	request_failed
 https://sub.pai.yt/clash	request_failed
 https://dt.shdetai.cn/s/66b377cb2b710b10fab953c5eacc2cb2	request_failed
 https://pai.yt/base64?preset=other	request_failed
+
+=== 2026-06-01 13:23:51 - 失效订阅 (4 个) ===
+https://link123.52pokemon99.cc/api/v1/client/subscribe?token=f4e88887603b3e65712b0bf646130881	request_failed
+https://link123.52pokemon99.cc/api/v1/client/subscribe?token=3234b173c623c8109e4f274afd012b06	request_failed
+https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532	request_failed
+https://proxy_kafee	request_failed
+
+=== 2026-06-01 13:24:28 - 失效订阅 (2 个) ===
+https://v2rayse.com/fs/public/20260427/free-node-share-0800.yaml	request_failed
+https://link123.52pokemon99.cc/api/v1/client/subscribe?token=7a01cfe8104008af25e626f3dae1ed3d	request_failed
