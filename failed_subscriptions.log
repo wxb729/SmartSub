@@ -9430,3 +9430,14 @@ https://tootooyun.vip/	request_failed
 https://www.kitslabs.com/leafvpndownloads/LeafVPN.dmg?v=v1.0.7	http_403
 https://www.kitslabs.com/leafvpndownloads/LeafVPN-setup.exe?v=v1.0.7	http_403
 https://opengraph.githubassets.com/62f75e81ce6a5b60fe406da7baa00382f239dee5392c4a8100e889752039f745/ermaozi/get_subscribe	http_429
+
+=== 2026-06-05 12:54:53 - 失效订阅 (6 个) ===
+http://%E6%8E%A8%E8%8D%90%E5%B7%A5%E5%85%B7%EF%BC%9Anodebuf.com/	request_failed
+https://pyapk.github.io/	http_404
+https://pyapk.github.io	http_404
+https://link123.52pokemon99.cc/api/v1/client/subscribe?token=bf5689c27e6f8e610be7badc1e5be705	http_403
+https://link123.52pokemon99.cc/api/v1/client/subscribe?token=706beb1c4145c077a66f1314c05092f9	http_403
+https://premstore.ir/	request_failed
+
+=== 2026-06-05 12:55:30 - 失效订阅 (1 个) ===
+https://subscribe-xb.xiaobaivpn.cyou/api/v1/client/subscribe?token=78a741297bf85871b2bd1d0d6a4f157f	request_failed
