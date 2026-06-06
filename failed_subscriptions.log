@@ -9441,3 +9441,17 @@ https://premstore.ir/	request_failed
 
 === 2026-06-05 12:55:30 - 失效订阅 (1 个) ===
 https://subscribe-xb.xiaobaivpn.cyou/api/v1/client/subscribe?token=78a741297bf85871b2bd1d0d6a4f157f	request_failed
+
+=== 2026-06-06 12:34:25 - 失效订阅 (8 个) ===
+https://reference-url-citation.invalid/2	request_failed
+https://www.anthropic.com/news/claude-opus-4-8	request_failed
+https://apps.apple.com/us/app/amneziavpn/id1600529900	request_failed
+https://cdn4.telesco.pe/file/eO13b5wsTgxsClvgizN24LLkDhMZIvMrTAflEEX8q8XP3QiODEorgn0L7AwowKXHdDmD5jUOK4Bsg7AIF1rmIW0Bh3HSKpj0E8A1eb-IhUU9lEYBnOu483LbHhue_UVfXHbHWk5n_cbdsH0wHEeJ_OO2B0qfNbuWRbgtpK21CdN2ksiX69ft9fIUkkh9uC1jl5wvU_sf-AQgqXk3r_DWSz1rgQAEVMGoHO-MalOHNyXnMLM1pkQ9J41hvEA8OLjnrzEo5oqrq2qtkRNO2aNsi3WklaS2yjltnb6Qf1QCLTqo8gw2wQSj78G_7Y6VWeX2yrOdoipYPRnoCK2YMroPbA	http_500
+https://cdn1.telesco.pe/file/ZfHjkZb4k5zVBxgmTbatomWtPXEmlbpGEPJKI7Y-spKSwCMOtpF25s2-fxWaUuwTAXyehWks8JSvht4ByLXJl8qSwzJLtaDM6tfRkAuZKE8Bm2ec4aCeOUAJLRA3fz9PNx9HLKyNAkcisHNtRWXrjWLSAVnJaWkaxp_CU9L6mdJEcXt0RxQoQx2Ej3M8wv4nP3cZy5TALJiUvbDWrTLvFmi5J-31Wq2yr6BQ14wwYXGdEVvBqWk4Uy__HKu2xcBmuSxIxX9s9rqPaolERlNqwYHzPCdiJx0FHWp_y5hLUk6RnCySCftCdttb2iT_g5HlIVND1z6Qw7c4uTMiExXYOw	http_502
+https://rwtdycukas.shop/fa/affiliates/?btag=914641_l303106	request_failed
+https://vgaudicank.shop/fa/affiliates/?btag=914641_l303106	request_failed
+https://mkewfoduja.shop/fa/affiliates/?btag=914641_l303106	request_failed
+
+=== 2026-06-06 12:34:52 - 失效订阅 (2 个) ===
+https://aL2fvKp4.doggygosubs.com:8443/api/v1/client/9534dde83c0816afbd9f1a095acb4df3	http_400
+https://pwac.gzi8998-ddns0721.eu/api/v1/gzcloud/subscribe?token=8f44f73b56f83222ca14bc60ed1740c5	http_403
