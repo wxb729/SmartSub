@@ -5,13 +5,13 @@ https://sub.shadowproxy66.workers.dev/sub/99066519-727d-44d0-b65a-6034f21bf3a2#S
 https://ys.jiedianxielou.workers.dev:443
 https://zkjrvbxy.qjty1.buzz/api/v2/user/token/e53732f31dea01ee1353f99d89d52e34
 https://mhxwfgsl.qjty1.buzz/api/v2/user/token/bd4946f594c2997bad3602142c69f1c0
-https://update.glados-config.com/mihomo/684175/46bf72f/70852/glados.yaml
 https://steel68.qjty.buzz/api/v2/user/token/949a9f99a4d8b4a7432ae040d5b8955d
 https://wylztxfq.qjty1.buzz/api/v2/user/token/308e6ee53eee87937f3a8c5c61b09b5c
 https://golden57.qjty.buzz/api/v2/user/token/4411a1d4c77f94d216ff9aa108cbc822
 https://packet32.qjty.buzz/api/v2/user/token/ff1679f7a830ab760db281c5c6289938
 https://vortex12.qjty.buzz/api/v2/user/token/7041431d14ad83ef71e49dc777b2c5c6
 https://amber85.qjty.buzz/api/v2/user/token/1ab1bff4b30e1e439ef385dafe30e0e7
+https://update.glados-config.com/mihomo/684175/46bf72f/70852/glados.yaml
 
 
 -- sub_list --
