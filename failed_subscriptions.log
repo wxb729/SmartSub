@@ -9678,3 +9678,14 @@ http://v2rayN-windows-64-desktop.zip/	request_failed
 
 === 2026-06-14 13:15:48 - 失效订阅 (1 个) ===
 https://ugn6oj8di4frhf.eepzau.org/CLBAqqtg/sUPllaKh?token=75ec123bff903983e1403c3dafe70124	request_failed
+
+=== 2026-06-15 13:35:58 - 失效订阅 (5 个) ===
+https://www.gstatic.com/generate_204	http_204
+http://rbtvplus18.pics/	http_403
+https://a.111477.xyz/	http_403
+https://a.111477.xyz	http_403
+https://github.com/pricing	request_failed
+
+=== 2026-06-15 13:36:36 - 失效订阅 (2 个) ===
+https://chuanyun-endpoint.cc/s/aa808d72d252c9eacab5699345e89aa7	http_403
+https://py.farafile.com/sub/djMsMjIzNywxNzgxMzU2ODMy51de98284f	http_404
