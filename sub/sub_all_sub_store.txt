@@ -1,14 +1,16 @@
 -- play_list --
 
 
+http://proxypool.zshabai.cc/
 https://sub.shadowproxy66.workers.dev/sub/99066519-727d-44d0-b65a-6034f21bf3a2#ShadowProxy66
 https://ys.jiedianxielou.workers.dev:443
-https://cf.iranhope.org/sub/aazm0a/e3ee80851b04640e2835e17560c62202
+https://cf.iranhope.org/sub/aazm_v2/a088facb6608e61fe12f945d0d5b44ff
 
 
 -- sub_list --
 
 
-https://cf.iranhope.org/sub/aazm0a/e3ee80851b04640e2835e17560c62202
+http://proxypool.zshabai.cc/
+https://cf.iranhope.org/sub/aazm_v2/a088facb6608e61fe12f945d0d5b44ff
 https://sub.shadowproxy66.workers.dev/sub/99066519-727d-44d0-b65a-6034f21bf3a2#ShadowProxy66
 https://ys.jiedianxielou.workers.dev:443
