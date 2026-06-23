@@ -9774,3 +9774,24 @@ http://3.4.8.1/	request_failed
 
 === 2026-06-22 13:40:42 - 失效订阅 (1 个) ===
 https://sub.xnyun.wiki/xxntoken=/567373f2007393d96313858a9ec5f114	request_failed
+
+=== 2026-06-23 12:39:01 - 失效订阅 (16 个) ===
+https://windowsv1.com/s/?token=a8fa43512ad06af9526aa5aecf4e9b6d	request_failed
+http://play.googleapis.com/generate_204	http_204
+http://connect.rom.miui.com/generate_204	http_204
+http://connectivitycheck.gstatic.com/generate_204	http_204
+http://cp.cloudflare.com/	http_204
+https://sightengine.com/ai-image-detector	http_404
+https://www.retrogames.onl/	http_403
+http://RetroGames.onl/	http_403
+http://wifi.vivo.com.cn/generate_204	http_204
+http://connectivitycheck.platform.hicloud.com/generate_204	http_204
+https://timstreams.net/	request_failed
+https://timstreams.net	request_failed
+https://yay520.com/#/register?code=iXjijTtw	request_failed
+http://xuhsdaryte.shop/registration?tag=d_699225m_33771c_	http_203
+https://r.saraf.app/s/hadgrd002	http_503
+https://cp11.adabmedia.com/hls2/sport.m3u8	request_failed
+
+=== 2026-06-23 12:39:39 - 失效订阅 (1 个) ===
+https://auv.vavava.kdns.fr/honghongll	request_failed
