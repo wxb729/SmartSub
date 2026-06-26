@@ -9823,3 +9823,22 @@ https://opengraph.githubassets.com/959acaaa23482e67e9320bfad9c707a3893b20a1e5615
 
 === 2026-06-25 12:42:32 - 失效订阅 (1 个) ===
 https://subrostunnel.vercel.app/wl.txt	http_404
+
+=== 2026-06-26 12:48:39 - 失效订阅 (14 个) ===
+https://sub.zlwl.org/zlwl/XJtLGdgZnKL0I7h39pbgikRz?sub=3	http_403
+https://0b96e976-9ec3-44c0-aa2b-30bf8b0792ea.com/api/v1/client/subscribe?token=8670d44607198a2578e02af06077b2eb	http_403
+https://api.v2paw.com/client/daab5cbc-83a8-44c0-9ab1-fd6908e39958/clash?template=universal/no-urltest	http_400
+https://www.woyaofu.com/appV4api/manusAi/subscribe/view/1c9b2fa555c3b573f3945162ac8ed163	http_500
+https://www.woyaofu.com/appV4api/manusAi/subscribe/view/7c35babf09a9b3973aefd12841e1df5f	http_500
+https://www.woyaofu.com/appV4api/manusAi/subscribe/view/f78730608d4eff625a5764096e88d049	http_500
+https://www.woyaofu.com/appV4api/manusAi/subscribe/view/65ac346ffb605c9a24df2124f9f6baf3	http_500
+https://www.woyaofu.com/appV4api/manusAi/subscribe/view/11d881adb26ebbfeb8771b1846126ebc	http_500
+https://www.woyaofu.com/appV4api/manusAi/subscribe/view/26f9503c9da546a29765c16006e3b73b	http_500
+https://xyzstreams.shop/	request_failed
+https://xyzstreams.shop	request_failed
+https://www.bintv.net/	http_429
+https://github.com/INCY-DEV/incy-platforms/releases/tag/desktop-v3.2.4	http_404
+https://api.github.com/cmc_internal/api	http_404
+
+=== 2026-06-26 12:49:21 - 失效订阅 (1 个) ===
+https://api.v2paw.com/client/daab5cbc-83a8-44c0-9ab1-fd6908e39958/clash	http_400
