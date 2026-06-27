@@ -4,11 +4,13 @@
 http://proxypool.zshabai.cc/
 https://sub.shadowproxy66.workers.dev/sub/99066519-727d-44d0-b65a-6034f21bf3a2#ShadowProxy66
 https://ys.jiedianxielou.workers.dev:443
+https://beiyon4.hanbao.lol/yuanshengqidong/6be6953badb699a7d44687174fe9122a
 
 
 -- sub_list --
 
 
 http://proxypool.zshabai.cc/
+https://beiyon4.hanbao.lol/yuanshengqidong/6be6953badb699a7d44687174fe9122a
 https://sub.shadowproxy66.workers.dev/sub/99066519-727d-44d0-b65a-6034f21bf3a2#ShadowProxy66
 https://ys.jiedianxielou.workers.dev:443
