@@ -9854,3 +9854,14 @@ http://asusiran.com/	request_failed
 
 === 2026-06-27 12:33:39 - 失效订阅 (1 个) ===
 https://jkun.waimaosass.icu/api/v1/client/subscribe?token=c80eb8ccb948bc5e10155dea76a63849	request_failed
+
+=== 2026-06-28 12:59:22 - 失效订阅 (9 个) ===
+https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf	http_429
+https://47.242.128.61:5000/api/v1/client/subscribe?token=cd6b2ec043fd28b2da0ded9edd4f0b7d	http_403
+https://lightningspeed.zh-a-fengniaogames.com/#/register?code=TQ2S5oxH	request_failed
+https://lightningspeed.zh-a-fengniaogames.com/#/register?code=YicxKQ4g	request_failed
+https://cdn4.telesco.pe/file/Gy0h5iwEPKaEuVtUJUSSA_FaxT5CL_WYrQ-u5qqtUx9IlR_4cMLKPl694mCDu5UiCVhhOWniCScLh2HDRRk_rCe6SNwmmg4gslsg-PVUPO0uLKmH6u3Spn8Rd6lqXx2nlSgIqcalW3kRGj8KbA-IL090mvPBivoaqjfSbpYAcJcVeZEPucuwbLOZGkfmc6SZybtmuLU9EOERVuOlacpUjcwkbRTH44Pp4Nwp0MTnhImG8OchLehqLqY73KJ3iyFKNPeyGV6BaONTP8XY0-o4ge-cg4lGNxZuHMF5Pi51JzQBInkbOY0q2o7nQzl_L6Ll5osnfop9EyoAmERWHVMTdQ	http_500
+https://wulass.org/#/register?code=wK6v2ahH	request_failed
+http://1.4.2.56/	request_failed
+http://twitter-ero-video-ranking.com/	request_failed
+https://mafclub.online/fa/?btag=260368	request_failed
