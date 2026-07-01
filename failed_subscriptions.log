@@ -9889,3 +9889,17 @@ https://DerbyBet.com	http_203
 http://DerbyBet.com/	http_203
 https://sub.jjzsub01.com:30010/subscribe/2c66504b7bd12d0e871b9a46c6a9a0ae	request_failed
 https://beiyon.hanbao.lol/yuanshengqidong/6be6953badb699a7d44687174fe9122a	request_failed
+
+=== 2026-07-01 13:01:42 - 失效订阅 (9 个) ===
+https://flowpick.net/zh-Hans	http_403
+http://install.sh/	request_failed
+https://www.abuseipdb.com/	http_403
+https://scamalytics.com/	http_403
+https://www.abuseipdb.com	http_403
+https://danesh1118.github.io/heiehegjhgfdddhegdfbrjeuehehdjfnfmgofkdjhshsbdkfjfoeuehhjddhjdndnjek/	http_404
+https://www.anthropic.com/news/claude-sonnet-5	request_failed
+https://apps.apple.com/app/singbox/id6673731168	http_404
+http://0.4.9.11/	request_failed
+
+=== 2026-07-01 13:02:27 - 失效订阅 (1 个) ===
+https://jkun.waimaosass.icu/api/v1/client/subscribe?token=d1911e8933384125cd61596883a37d76	request_failed
