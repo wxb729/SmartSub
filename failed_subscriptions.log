@@ -9920,3 +9920,13 @@ https://pdfcandy.com/cn/	request_failed
 === 2026-07-02 12:39:12 - 失效订阅 (2 个) ===
 https://v2rayse.com/fs/public/20260511/free-node-share-0800.yaml	request_failed
 https://v2rayse.com/fs/public/20260514/free-node-share-0800.txt	http_502
+
+=== 2026-07-03 12:24:12 - 失效订阅 (8 个) ===
+http://%E5%90%B9%E9%9B%AA%E4%BA%91.com/	request_failed
+https://apilayer.com/marketplace	request_failed
+https://www.lenzbet1.xyz/	http_403
+https://www.lenzbet1.xyz	http_403
+https://cdn4.telesco.pe/file/dCP4apeyTei0BVRsgJpPNJtYT_VpbWsKdEQrb_bxv70y0QvbjhjWYsxV4vHqw_zuSnROp7bjmaDptjSdT31pw4vGBWFZ9ZLKRixD0RDKxPz7LKLmIkfqA44r0Ll5N5Kkf-mMtNu0nPLsZEyRbkEjXM50tAq7RhwcP8-a4vH2g_2B30hireHE6X19joP3uqzhEOOJvXG4KYCkESJhfNb5RU9y0MFvXf38obEqEujOcH7P5NtJ8FvYOecmwOyXEGn8QVDG3bO6-0sN-h3NGouA_Z_70xTCEJg3oiz4dvvSry8bBgwq-85Suc4dxs9tEVUqCJjB8nRNAILadO90m8LZlQ	http_500
+http://dizhi.applnn.com/	request_failed
+http://1.4.2.58/	request_failed
+http://filebin.net/	request_failed
