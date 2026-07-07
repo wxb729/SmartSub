@@ -3,17 +3,13 @@
 
 http://proxypool.zshabai.cc/
 https://ys.jiedianxielou.workers.dev:443
-http://8.134.155.69:8707/200G.yaml
 https://rifiv.no-mad-world.club/link/nIHOtvpB6zMwsos7?clash=3&amp;extend=1
 https://l1wn2.no-mad-world.club/link/ZMOoNEXC8crj3cYe?clash=3&amp;extend=1
-http://8.134.155.69:8707/70G.yaml
 
 
 -- sub_list --
 
 
-http://8.134.155.69:8707/200G.yaml
-http://8.134.155.69:8707/70G.yaml
 http://proxypool.zshabai.cc/
 https://l1wn2.no-mad-world.club/link/ZMOoNEXC8crj3cYe?clash=3&amp;extend=1
 https://rifiv.no-mad-world.club/link/nIHOtvpB6zMwsos7?clash=3&amp;extend=1
