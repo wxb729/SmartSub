@@ -10089,3 +10089,15 @@ https://raw.githubusercontent.com/lflflf999/0516/main/BX-JD	http_429
 https://raw.githubusercontent.com/tjyu010/jiedian/main/21	http_429
 https://raw.githubusercontent.com/xhmotor/V2rayn/main/v2rayn	http_429
 https://wulan.sbs/s/ef8c31d3087461b2c90769131f2ea4e2	http_403
+
+=== 2026-07-10 12:31:27 - 失效订阅 (6 个) ===
+https://e.lllm.dpdns.org/sub?token=c85b063ee357e64646695afbe0dcfb90	http_429
+https://e.lllm.dpdns.org/sub?token=c85b063ee357e64646695afbe0dcfb90&amp;b64	http_429
+https://dingyue.bbec.cc/dingyue/7d534421ca871eb39badeac39c799476	http_403
+https://kaze1.aisaka-taiga.com/oosaka/35978e24974cc0a4059bac0f8562f59a	http_404
+https://te.tuotuoyun.fyi/#/register?code=Bm6mfftg	request_failed
+https://cdn4.telesco.pe/file/lXBb0P5qQvt-h22-o0ZoAaSN7NLwzjRS1IthqXVV2n9bZ3bw8nwTItnfmbIuaoTHrgo75UanikXicHC3dsZkY1NE9CI0o-tY-cJXb0Fc-RCm-baz8ia9nR9eFaqlxO8AWkH0ECjTKiKWuMr89Zg862_uFiTdYUmxqGKjlZBmcvGiUCiicAzVgjFUFB2MOzVose_LP0Eh7U82JBpJcBkQLyMeHfS2LKzT1iPjv7XFeSDCYhSbFd2pg259hWNYumEuvz5kV1jFhVHZTUSOLPSOlTZdlnS0NcNpnzMEJHAJIKboxkvKEPX8vTLfYxyyJVA7WDIcEg-j-qWR6qQU2GX5Fw	http_500
+
+=== 2026-07-10 12:32:08 - 失效订阅 (2 个) ===
+https://dingyue.bbec.cc/dingyue/13b4f58f18dc92165ca8b510e0322802	http_403
+https://l1wn2.no-mad-world.club/link/ZMOoNEXC8crj3cYe?clash=3&amp;extend=1	request_failed

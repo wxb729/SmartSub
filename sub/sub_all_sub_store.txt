@@ -2,11 +2,8 @@
 
 
 http://proxypool.zshabai.cc/
-https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
-https://dingyue.bbec.cc/dingyue/13b4f58f18dc92165ca8b510e0322802
-https://dingyue.bbec.cc/dingyue/7d534421ca871eb39badeac39c799476
 https://rifiv.no-mad-world.club/link/nIHOtvpB6zMwsos7?clash=3&amp;extend=1
-https://l1wn2.no-mad-world.club/link/ZMOoNEXC8crj3cYe?clash=3&amp;extend=1
+https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
 https://ys.jiedianxielou.workers.dev:443
 
 
@@ -15,8 +12,5 @@ https://ys.jiedianxielou.workers.dev:443
 
 http://proxypool.zshabai.cc/
 https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
-https://dingyue.bbec.cc/dingyue/13b4f58f18dc92165ca8b510e0322802
-https://dingyue.bbec.cc/dingyue/7d534421ca871eb39badeac39c799476
-https://l1wn2.no-mad-world.club/link/ZMOoNEXC8crj3cYe?clash=3&amp;extend=1
 https://rifiv.no-mad-world.club/link/nIHOtvpB6zMwsos7?clash=3&amp;extend=1
 https://ys.jiedianxielou.workers.dev:443
