@@ -10148,3 +10148,8 @@ https://a2b0fd2b-716f-0df8-d4e2-03a1c00e5f1a:a2b0fd2b-716f-0df8-d4e2-03a1c00e5f1
 https://www.lenzbet1.space	http_403
 https://www.lenzbet1.space/	http_403
 https://raw.githubusercontent.com/lagzian/SS-Collector/main/mix_clash.yaml	http_404
+
+=== 2026-07-14 11:43:45 - 失效订阅 (3 个) ===
+https://11kk.netlify.app/.netlify/functions/sub?id=1#1kk.netlify.app	request_failed
+https://mar.bbc.xx.kg/?b64	request_failed
+https://yfjc.xyz/api/v1/client/subscribe?token=7d7ad74e076f90503003175007ff3791	http_403
