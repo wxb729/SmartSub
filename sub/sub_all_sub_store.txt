@@ -5,14 +5,12 @@ http://proxypool.zshabai.cc/
 http://proxypool.zshabai.cc/#####################
 https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
 https://rifiv.no-mad-world.club/link/nIHOtvpB6zMwsos7?clash=3&amp;extend=1
-http://36.133.41.39:8081/sub/api/subscribe?token=f6e5671cca1ef41b6a63bf0030c58dc9
 https://ys.jiedianxielou.workers.dev:443
 
 
 -- sub_list --
 
 
-http://36.133.41.39:8081/sub/api/subscribe?token=f6e5671cca1ef41b6a63bf0030c58dc9
 http://proxypool.zshabai.cc/
 http://proxypool.zshabai.cc/#####################
 https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
