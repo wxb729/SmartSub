@@ -10250,3 +10250,20 @@ https://47.242.128.61:5000/api/v1/client/subscribe?token=e1da6561dc32d6bb3076019
 https://47.242.128.61:5000/api/v1/client/subscribe?token=134341922a88724e7fbbfa05e1f10bed	request_failed
 https://x.v50.lat/view.php?id=6c9a78e86e19bf29	request_failed
 https://x.v50.lat/view.php?id=76c6ea8eadae8a7b	request_failed
+
+=== 2026-07-20 12:13:27 - 失效订阅 (12 个) ===
+https://content.monikacloud.net/skt/1e9316c548e405b3be7910896a0e749f	http_403
+https://openrung.org/	http_403
+https://openrung.org	http_403
+https://8zkll.no-mad-sub.one/link/5nXq2aUsDJBl96wz?clash=3	http_404
+http://cramsar1405.com/	http_403
+https://3f514ea2-4662-11ed-a8bf-f23c91cfbbc9:3f514ea2-4662-11ed-a8bf-f23c91cfbbc9@7df4c46d-ta1og0-tb5rbt-1kcpe.fr.oshuawei.com:443?sni=7df4c46d-ta1og0-tb5rbt-1kcpe.fr.oshuawei.com#%E2%9A%BD85@oneclickvpnkeys	http_403
+http://Ho3in.AM/	request_failed
+https://a95e9198-0671-11f0-9426-f23c932f2c32:a95e9198-0671-11f0-9426-f23c932f2c32@a2e7ab8a-thvs00-ths4hq-azvy.cldvpuk.cdnbytescm.com:443#%E2%9A%BD82@oneclickvpnkeys	http_403
+https://www.instagram.com/elmow_gaming?igsh=dHBmYmYyMjVlNGs2	http_429
+https://cdn4.telesco.pe/file/65174166e2.mp4?token=ex-VX6wkwPieDxYF5DNIRBfwpXQXAvsDCeMOeoJaxjzeRjRbrK57DybH8g4nMlq1JV_3eqNN_pd_BUi3gSbxWpAJMfoC35fFxTHfuv-Ls0FBC572pJcG6bHfLvNj_1YFJ8j3VVItBqgHAYZxd24dr6p0LoRYvPMfcp9K6Phclacy4D9M_IknMTiUSZBHjtz9ACRzgITAXx5DzN-DmKwScKBFdYQMgmKi10xstI2BueBj6Yg3jPUbfaFSe_f_DDfVfpquhUal3eqKh_bKz50aBNX-B9XZAK4kKv_t6Fh1D4Op6oDcpqMLJu2mYDp-4iBlzxsgAcpr-PrTjdB97W25BQ	http_500
+https://web.dashbit.top	request_failed
+http://web.dashbit.top/	request_failed
+
+=== 2026-07-20 12:14:07 - 失效订阅 (1 个) ===
+https://services.cu-te.cn/link?token=2332dd095d4db15747ad3cb96c4b7991	http_403
