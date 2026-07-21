@@ -10267,3 +10267,27 @@ http://web.dashbit.top/	request_failed
 
 === 2026-07-20 12:14:07 - 失效订阅 (1 个) ===
 https://services.cu-te.cn/link?token=2332dd095d4db15747ad3cb96c4b7991	http_403
+
+=== 2026-07-21 11:54:41 - 失效订阅 (22 个) ===
+http://%E4%B8%80%E5%85%83%E6%9C%BA%E5%9C%BA.asia/	request_failed
+https://windowsv1.com/s/?token=9b7471e341be4680059d4bef8d71b021	request_failed
+https://sub3.smallstrawberry.com/api/v1/client/subscribe?token=63daf679f23c779995266165b4c20334	http_403
+https://cdn.pikayun.com/s/39cd0ff176734be4e540ae0f0fad3d3b	http_404
+https://sub3.smallstrawberry.com/api/v1/client/subscribe?token=63daf679f23c779995266165b4c20334#nekobox	http_403
+https://3d.si.edu/	http_403
+https://www.virtualyosemite.org/	http_403
+https://naturalhistory.si.edu/visit/virtual-tour	http_403
+https://matterport.com/discover	http_403
+https://tech2.npm.edu.tw/720vr/enHome.html	request_failed
+https://citywalks.live/	http_202
+https://tas360.au/explore	request_failed
+https://user.vanilla.rest/#/register?code=BLowDzdd	request_failed
+https://virtual.basilicasanpietro.va/en/basilica-viewer/	request_failed
+https://chuan-yun.cc/#/register?code=j1mbHbWA	request_failed
+https://modelscope.cn/models/PublicMeteorologicalServiceCenter/FengHe	request_failed
+https://cdn4.telesco.pe/file/73b187bb72.mp4?token=pngKCVKEmIvMm8rpvFM4hGFKO9WQc44KXTxhABnZiPUoOur1G3YL16uELPTH7tP2hoVGMctW6vPN0hewGqomQ1g-glqILncipvWd8n4oqwZ2zsA3iYFUqy-d5e59p_X4snr0GFVRStBJIV4tk1qnKhgQTLxY5HrnIjewr-kjcPdvpKSaRzjevERkf-G-HOxVdaEkkVOLGvtCFnWRgzg4Q1WkisyGex8-PunmsskUl4frP5yRwmLEUznuVs2pLvNuYmWgGRwvY3I00-HKEMbTSwuAIQI5_p_orRQiz7QFPv0SBiMbu9VuOnbsz-k_uTg9vj2MMQu7r4crS3BfIt-6iA	http_500
+https://96c798f6-4645-11ee-b8a1-f23c9164ca5d:96c798f6-4645-11ee-b8a1-f23c9164ca5d@7382cbd7-tcxds0-th9kx9-1os43.fr.oshuawei.com:443?sni=7382cbd7-tcxds0-th9kx9-1os43.fr.oshuawei.com#%F0%9F%93%8A99@oneclickvpnkeys	http_403
+https://opengraph.githubassets.com/a0a2210ed41b1d083252f56badc6071e5dd458e9d5e4ebb48c19682da8822d9d/ermaozi/get_subscribe	http_429
+https://linkbuild.pro/gTZ80wo	request_failed
+http://%3D%3D@e1.cover20.ir:51570/#%40Napsternetvirani%20	request_failed
+http://%3D%3D@e4.cover20.ir:16156/#%40Napsternetvirani%20	request_failed
