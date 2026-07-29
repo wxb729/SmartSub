@@ -2,9 +2,8 @@
 
 
 https://glassdy.mavita.kdns.fr/sub/user/eyJ1IjoiY2hlbmxhbzc5MiIsImUiOjE3ODYwNzQxNzY5NTAsInMiOiJiZjFhMjU1YmM2OGYxMDA0In0?custom=1&amp;protocol=default
-https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
 https://ys.jiedianxielou.workers.dev:443
-https://xboard.kaoqy.me/s/f1eea6f02aa46e0eab4182ca7b683c92
+https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
 https://api.laodayun.com/s/aa6d00a002b1551acddf3be3110d8ae1
 https://api.laodayun.com/s/8a7871c791b3e74c2701e0b9639a5249
 https://api.laodayun.com/s/8a7871c791b3e74c2701e0b9639a5249#
@@ -22,5 +21,4 @@ https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
 https://glassdy.mavita.kdns.fr/sub/user/eyJ1IjoiY2hlbmxhbzc5MiIsImUiOjE3ODYwNzQxNzY5NTAsInMiOiJiZjFhMjU1YmM2OGYxMDA0In0?custom=1&amp;protocol=default
 https://s4.laoda666.com/s/33fa99fe725f652e94474d97e7fcde9f#
 https://s4.laoda666.com/s/33fa99fe725f652e94474d97e7fcde9f##https://dy11.baipiaoyes.com/api/v1/client/subscribe?token=f56f38c96eab9329ac92f48a1b35fdf7
-https://xboard.kaoqy.me/s/f1eea6f02aa46e0eab4182ca7b683c92
 https://ys.jiedianxielou.workers.dev:443
