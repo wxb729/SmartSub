@@ -10592,3 +10592,18 @@ https://raw.githubusercontent.com/0i0/deepme-crawler/main/crawled.repos/Z.txt	ht
 === 2026-08-10 10:41:44 - 失效订阅 (2 个) ===
 https://kv.074167.xyz/24916ad0-847d-4522-9e17-f4347dee57fd?sub	http_429
 https://api-qw.gonghailin.xin/7e1c2a94fbd30658c4a8d1ef92b7ac03?token=7ddb8e509959db71cc5e7a46a2ac79e8	http_403
+
+=== 2026-08-11 10:34:24 - 失效订阅 (13 个) ===
+https://P3Z9s943PD6VV0jx.yuji.homes/	request_failed
+https://rikki.tomorin.xyz/HonkaiStarRail/d549e949011dd9faaed41011b651886a	http_404
+https://rikki.tomorin.xyz/HonkaiStarRail/3b47e9a1e7e1c935312f9a4ab9074392#https://console.passgfw.top/	http_404
+https://rikki.tomorin.xyz/HonkaiStarRail/c5dac90ecc7d1788f2c15ff6bdff06ff	http_404
+https://reference-url-citation.invalid/0	request_failed
+https://reference-url-citation.invalid/1	request_failed
+https://tineye.com/	http_403
+https://www.cromite.org/?utm_source=chatgpt.com	request_failed
+https://B2n.ir/pn6629	http_403
+https://P3Z9s943PD6VV0jx.yuji.homes	request_failed
+https://view.freev2ray.org/	request_failed
+https://raw.githubusercontent.com/killgcd/chromego/main/ChromeGo/XX-Net/code/default/smart_router/local/gfw_black_list.txt	http_404
+https://raw.githubusercontent.com/0i0/deepme-crawler/main/crawled.repos/i.txt	http_404

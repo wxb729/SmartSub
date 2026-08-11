@@ -1,14 +1,12 @@
 -- play_list --
 
 
-https://rifiv.no-mad-world.club/link/nIHOtvpB6zMwsos7?clash=3&amp;extend=1
-https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
 https://ys.jiedianxielou.workers.dev:443
+https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
 
 
 -- sub_list --
 
 
 https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
-https://rifiv.no-mad-world.club/link/nIHOtvpB6zMwsos7?clash=3&amp;extend=1
 https://ys.jiedianxielou.workers.dev:443
