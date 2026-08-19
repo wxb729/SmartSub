@@ -10724,3 +10724,19 @@ https://apps.apple.com/us/app/speedtest-by-ookla/id300704847	request_failed
 
 === 2026-08-18 09:57:31 - 失效订阅 (1 个) ===
 https://eggyun.cc/study/v3/eggcloud?token=a9716b5ae9184505f2de144228e9bc1c	http_403
+
+=== 2026-08-19 09:59:04 - 失效订阅 (11 个) ===
+https://is.domainforsub.work/sub/f19186636cf0adc0	http_403
+https://d.koo1.de5.net/biying/5c388bc5ec42a1e602b0dbfe226d30dd	http_403
+https://kaze1.aisaka-taiga.com/oosaka/fef62e2e66bf3692d6b2301ac352e59e	http_403
+https://d105039.lvcha.me/?ch=105039	request_failed
+https://kaze1.aisaka-taiga.com/oosaka/e198094e3e8fc21de1ebcc2491d7c992	http_403
+https://reference-url-citation.invalid/3	request_failed
+http://xxxxx.onion/	request_failed
+https://45.134.9.41:443?sni=991cc80f13caf81d3426ddebb2da7f49-240d6105b6ef86f0.apache-iv.com#1%F0%9F%8E%88@oneclickvpnkeys	request_failed
+https://cdn4.telesco.pe/file/5e35f0f416.mp4?token=dLwoiX6mhTvW_f91uSKy_-HvMPLH0yGwYOYhxFjs-7MX-aNpJKRcEOmzlgbu51G1kA9XQXcvJF08nQFA6WYzlhdR6btTCEUt-Rl1fChW8tSaK9wXglkiW27S4o2Uu0qQh3azIPYy4b-Uz3o9Qc7nB9QKGABa3GkGsatk__9qs4AEeqE1SHUj6hBrkGkxtd0bTGv3Kqa0n__vuoivw2jUC0N2CBXu0sWFwhkeqgeHlQXaST2imbRRqjURE2V8P3RBUgLhBiRpY7Zh_IpcYbgPi1WWRwrtIuSL2S5jUQYNRVFRyZBfblN4qWnjL7__xovMxObPigLgU5mKuc1-2EgN_w	http_500
+https://cdn4.telesco.pe/file/BrOawGuqtrljkexYEK1bjdNfDhQu-hpaIoCG8VZm_mTeOyuJ-pglHcOskT3vBsAvb1Ou6NZd-8PK9jc_UQ17wztTMmXWwKGv08wWlccAtGP8ZX9gIhlq8ZrtObz7OUElJj0FgegCxAW9NnQ4iEeWi5nJ9tOe8cR-rTP51hyYr9yysQuh2p1OIkIhWtEgDCR6jhsrwQiJronEu45yjcH9FiEFDTWIE5f9NMB9uGkA83DU8qF3nbMxwpJURDTNhCUlj3Je3PTviTROgX_sujFKUX3ATtnwlzgUKqriea7FvvNkt-cOSIOoZD0Al2MJzAng-nsTy3Blrr5Nr5vjVfBqAQ	http_500
+https://api.qihangj.shop/api/v1/client/subscribe?token=617476d8b37b1bb7d23fc835241a1492	request_failed
+
+=== 2026-08-19 09:59:41 - 失效订阅 (1 个) ===
+https://api.sushi3.cloud/sushi/6ad622be288cabb665e98824670d17d7	http_403
