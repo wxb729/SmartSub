@@ -10740,3 +10740,29 @@ https://api.qihangj.shop/api/v1/client/subscribe?token=617476d8b37b1bb7d23fc8352
 
 === 2026-08-19 09:59:41 - 失效订阅 (1 个) ===
 https://api.sushi3.cloud/sushi/6ad622be288cabb665e98824670d17d7	http_403
+
+=== 2026-08-20 09:58:36 - 失效订阅 (19 个) ===
+http://gboard.dev/s/2e9b7b0390fc4c37c0a30ef0b237aaa3	http_403
+http://gboard.dev/s/ffd994522feb02e76bf7ee05dfc57b71	http_403
+https://svip.ttyun.eu.org/x/VejDYtdryS3W?t=auto	http_404
+http://%E3%80%90GitHub.com/	request_failed
+http://UTC%EF%BC%8CGitHub.com/	request_failed
+https://sus.clodom.link/message/api/sourlist/fa46769fc27da043303c7d5ad3c0771b	http_403
+http://gboard.dev/s/ffd994522feb02e76bf7ee05dfc57b71#	http_403
+http://gboard.dev/s/3e70f1e905277f123eadbd37037cec59#	http_403
+https://sso.yuetoto.com/api/v2/avatar/2e9dd6b1d15732ae1c602c7c2205e41b	http_403
+http://gboard.dev/s/0f9fe17a3cf968ebd3ee2c3d84b724be	http_403
+https://tgz.heidong.cyou/i/HfcNIZbC	http_404
+https://b105062.lvcha.me/?ch=105062	request_failed
+https://search.brave.com/	http_429
+https://reference-url-citation.invalid/4	request_failed
+https://www.reddit.com/r/GTA6unmoderated/comments/1vso75h/flash_cyberleek_has_the_full_developmental_built/	http_403
+https://www.reddit.com/r/GTA6unmoderated/comments/1vso75h/flash_cyberleek_has_the_full_developmental_built/?utm_source=chatgpt.com	http_403
+https://cdn4.telesco.pe/file/lu-_xfCHdZs41TZ-NlNCy2JIwtEdJO9NhqFFUBNju64X5jQs3VnbS1AA_1Dq_6XFnptk1uQlaTajaJXNkBLhzGfLkcZ057MvDc7p7J7MdKlnLdAFUYdlqz85wzGhnneonePcz3qjfEPpyjt6k8lW6z4vZ9XXgJ1SzxmaIqPSz0rJS06ioQIC7IKSjIYN5W56ORx3TUYUcmLQo0E8GhXdCU_ABWH_b468Ql4am05zO7-PS1ToUPeAFZ7dFlcpi-2ZqpC0XfVBxBh_BVPTnFhjLdBRt0sWfJNSITHZKNf1dgtbFLOn0PhTdjLEa-QGwM21dd1CmNbXRlYZDgqlZIouFg	http_500
+https://cdn4.telesco.pe/file/4e84d92aa7.mp4?token=PMQVs3YhNJXD7OOT260ejJLcHI2lnZrpd4nvQ397h69WKFYSHoWfWyMhAGledr4fm8C465ZHkTuIP_DBgSSJ4BaNeg7P9pmUeSuI5TGrrXTdogwfr_3308x9azy33MIVdYRJZNfPD9n6a3w9jabB-HMrifNapXq9AM2XnMkLpc6VUFzEL7Bx3Mu5Ojl7CvTP-cvCVr1GjskLL707cjElefGdTpVW_XEGJFHpPjwh7oUUmCUrM9G2WJUO_1FRbuQG1N0xFXWGAQLyYmYJ3T23bGdyajJoR9PpzUODN-0suwoKQfYnd084MkJhwJC9ga_5BvLd5khHC4uhLCNXT5ciaQ	http_500
+https://github.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/raw/main/sub/Albania/config.txt	http_404
+
+=== 2026-08-20 09:59:23 - 失效订阅 (3 个) ===
+https://nodebuf.com/files/public/cmrgbc7wa16tspi5wvgba7afp/download	http_502
+https://ymjc.cfd/api/v1/client/subscribe?token=0ddddf3a3d06c34189054704925df22e	request_failed
+https://ymjc.cfd/api/v1/client/subscribe?token=34ca2387e001b5e579a34f76187d63dd	request_failed

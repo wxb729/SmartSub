@@ -1,14 +1,26 @@
 -- play_list --
 
 
-https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
 https://ys.jiedianxielou.workers.dev:443
+http://gboard.dev/s/14580c9c3b8ec5f986254ce2e39e6dfd
+http://gboard.dev/s/14580c9c3b8ec5f986254ce2e39e6dfd#
+http://gboard.dev/s/961f5a32ae283ef209071aad59244f31
+http://gboard.dev/s/961f5a32ae283ef209071aad59244f31#
+https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
+https://v2panel.ccwu.cc/s/4040425c86e2b4559ba3c98f41bba515
+https://v2panel.ccwu.cc/s/0efe8806b56fd8add84ad99234022331
 https://97893-2-34-333-9-ioikkd.xswl-fff.com/xswl96njd83jd83/3f4ee53bff3049abe057169b4251c3c3
 
 
 -- sub_list --
 
 
+http://gboard.dev/s/14580c9c3b8ec5f986254ce2e39e6dfd
+http://gboard.dev/s/14580c9c3b8ec5f986254ce2e39e6dfd#
+http://gboard.dev/s/961f5a32ae283ef209071aad59244f31
+http://gboard.dev/s/961f5a32ae283ef209071aad59244f31#
 https://97893-2-34-333-9-ioikkd.xswl-fff.com/xswl96njd83jd83/3f4ee53bff3049abe057169b4251c3c3
 https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
+https://v2panel.ccwu.cc/s/0efe8806b56fd8add84ad99234022331
+https://v2panel.ccwu.cc/s/4040425c86e2b4559ba3c98f41bba515
 https://ys.jiedianxielou.workers.dev:443
