@@ -1,20 +1,20 @@
 -- play_list --
 
 
+https://ys.jiedianxielou.workers.dev:443
+https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
 https://97893-2-34-333-9-ioikkd.xswl-fff.com/xswl96njd83jd83/3f4ee53bff3049abe057169b4251c3c3
 https://97893-2-34-333-9-ioikkd.xswl-fff.com/xswl96njd83jd83/3f4ee53bff3049abe057169b4251c3c3#
-https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
-https://dash.dmitai.com/newlook/520c1972542fc213584814b8a134e0ca
-https://ys.jiedianxielou.workers.dev:443
 https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3
+https://781.jiasu.asia/s/6331b4302131810a9ba7bf77d5ae8f61
 
 
 -- sub_list --
 
 
 https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3
+https://781.jiasu.asia/s/6331b4302131810a9ba7bf77d5ae8f61
 https://97893-2-34-333-9-ioikkd.xswl-fff.com/xswl96njd83jd83/3f4ee53bff3049abe057169b4251c3c3
 https://97893-2-34-333-9-ioikkd.xswl-fff.com/xswl96njd83jd83/3f4ee53bff3049abe057169b4251c3c3#
 https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e
-https://dash.dmitai.com/newlook/520c1972542fc213584814b8a134e0ca
 https://ys.jiedianxielou.workers.dev:443
