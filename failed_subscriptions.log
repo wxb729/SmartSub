@@ -11144,3 +11144,18 @@ https://cdn4.telesco.pe/file/dnpoysmHwTvs4EKygb94Dfv6K_ZUO1u3r9TZhGelmIrHCfNdbCS
 
 === 2026-09-05 12:45:50 - 失效订阅 (1 个) ===
 https://v1.mk/1bR3Adx	http_502
+
+=== 2026-09-06 12:55:22 - 失效订阅 (9 个) ===
+https://knjc.cfd/api/v1/client/subscribe?token=3a58aa29a88950a762f7bb215694dda0	http_403
+https://apolu.app/zh-Hans	http_403
+https://kaze1.aisaka-taiga.com/oosaka/ac44933ee5f28bbff93a29a3ff7f9392	http_403
+http://178.217.12.101:6669#%E2%98%BA%EF%B8%8F64@oneclickvpnkeys	http_401
+http://148.100.84.192:5252#%E2%98%BA%EF%B8%8F94@oneclickvpnkeys	http_400
+https://cdn4.telesco.pe/file/niOO10whF6wHkvW71wCOUM38tUZTU6jzsib_JVHw5_JQh1SUfoC_4uaWPAA_iUZKeV9HxHjlTC-jXCjf_wq7BhDpFJQnRXSV17PU__tSRIIcu9HgDzDNmC5DUNtybssP2lg8M6DRPk-itiGIZmzOSwCKRCdfw0668sJy7U5rrZQCwKdxJ_m-4D2bKugygno6CR8HBBSqT-3v5oroouOaV-A4bhif27qpAMFIIH5ExFb7OOoHn4Ihy_VB-XFZ7Hu1jws3OQLusZ6EZMpFgvjX3iQ2XqXDyBLxzwDmwMIhRLR0NAXXG-0vNM_axfXGyPVUKKvNr1uA9ILtj0bVIWwe9Q	http_500
+https://apps.apple.com/us/app/sing-box-mt/id6785326793	request_failed
+https://cdn4.telesco.pe/file/2c4f713d81.mp4?token=SwCbWe0XJkxQ2faJFxD2bo47FY1a2xEd0Ok0FWT4szqQE61-r0QVjnMgpTh9kK6sNY3r5I3bUeviqRSaawoV31NX8k_lpUNxkqJkRU5P-EFDtPp5bjABSCizL2D4YTNaLgbAn6kmPMCyNMwee7G0bXDvJVh1nLtm5qHWJixj0baJz7J2ZvFC8bpYS-wJjQWjCGIz9WKQKQNNSfMv8MEhULkfrH6jlW8Nk_pim747AzgLdh0TBcI2uMaWx1e0HG_7FqJe8yozTE1AJrTCYdrkdfMotRkx2iq3IkmURjwSCJuzy0f6UKZnhB9rM966fjlkXhcyjAEZKY8K3GDBxY40ow	http_500
+https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml	http_404
+
+=== 2026-09-06 12:56:07 - 失效订阅 (2 个) ===
+https://raw.githubusercontent.com/ggborr/FREEE-VPN/refs/heads/main/5CL	http_404
+https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Base64/BLACK_SS%2BAll_RUS_base64.txt	http_404
