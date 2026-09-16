@@ -11400,3 +11400,35 @@ https://digiato.global/report/iran-banks-ssl-certificates-domain-changes/	reques
 
 === 2026-09-15 13:07:45 - 失效订阅 (1 个) ===
 https://api.qihangj.shop/api/v1/client/subscribe?token=3d2db2a5bf8b067bc671f8d93e200e0d	http_403
+
+=== 2026-09-16 13:02:30 - 失效订阅 (27 个) ===
+http://rheinmetall.github.io/	http_404
+https://www.bloomberg.com/opinion/newsletters/2026-09-15/which-is-worse-ai-groupthink-or-extinction	http_403
+https://miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_f4864217588b44c489d58da20de766c8.html	request_failed
+http://apps.apple.com/app/id6780153714	request_failed
+http://apps.apple.com/us/app/xray-connect/id6746749546	request_failed
+http://apps.apple.com/app/id6785326793	request_failed
+http://apps.apple.com/app/id1442620678	request_failed
+http://apps.apple.com/hk/app/vpnice-proxy-utility-tools/id6775928136	http_404
+http://apps.apple.com/us/app/smartmode-vpn/id6761826244	http_404
+http://apps.apple.com/us/app/bhub-client/id6760386281	request_failed
+http://apps.apple.com/hk/app/vpnice-%D0%B1%D1%8B%D1%81%D1%82%D1%80%D1%8B%D0%B9-%D0%BF%D1%80%D0%BE%D0%BA%D1%81%D0%B8-%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82/id6760916527	http_404
+http://apps.apple.com/us/app/lancex/id1536754048	http_404
+http://apps.apple.com/app/pharos-pro/id1456610173	request_failed
+https://openevidence.com	http_403
+http://apps.apple.com/app/id6774378761	request_failed
+http://testflight.apple.com/join/QJWrVrxT	http_404
+http://apps.apple.com/us/app/%D0%B8%D0%B7%D0%B8-vpn/id6746414734	request_failed
+http://apps.apple.com/app/id1596063349	request_failed
+http://apps.apple.com/app/id6754002454	http_429
+http://apps.apple.com/app/streisand/id6450534064	http_429
+https://openevidence.com/	http_403
+https://cdn4.telesco.pe/file/b0533c1cc6.mp4?token=BMvZIU9UBjYBMKXlo1KYRu27hB4wn_N0FtUpgrW1TcDBPv2vBIg-10rb0n_HoODlA8zFHYvmVpzk5pgFqWAuPYs9NCdK0uxUhM5r2L7OcBkDUFqsquG4ykulFFubDJ7ZXgIbRR18kvxroAai1GnfcgcmjuyfpiiorzVVZeCP9w6R0cGNw39zbOgmMG6AUsnlOchGIpyRDdBJChGqM-MmXeCh4NcTLDmuSpq6O6B-rAmCGQ8TeLYwCwzZ2Pzz6sabp5dPWqz-4NPyTkilPG-BGl-NpqPuRbAxuwSuHaDoYfRmuBgHljlm-hg7N7idKDb0lDSTmzl2v_WmMUm_YGeqYbqFaE5R7IDUk4T0ogG7tTHRPcGylMUALh9Ww3e7ih4NVcwfKqa3UMRr6HVp3tBkYqCE_Hxjk5o7rWGbWYajQOk9qaMcZfMk3pNVazJhjWAmW1sTksYUIFVlujHmEPbsz3Q8LThDKN9sP7U4t99Dv3f5WF8uoh8D7TwnI6FpWzRWVWrONKvh412fmcIpgLkth2g3nw4ncZ3gwrErwgpJ4jqvu0INtBN_7-rkJTgA7gKqXHB65Eibs8ASQSnwXVQeawicvk9NDZU49kk3zzp8np-xGlZFQJqyFmBzsdhDts97KfpL5E9-aBrhX8NcRVPaqyJRQRsjdYOra6ALRZYwxZo	http_500
+http://37.59.125.131:8888#%E2%9A%99%EF%B8%8F78@oneclickvpnkeys	http_400
+https://cdn4.telesco.pe/file/vITynSYRsUPQcwjmqpKNfHvEfPNi7fxuVRdX33KQVTG2hGQnbGxABoqCltTKLP92LbVZpqv_8oHeBvJolVIKAVeqVSHnSht0mAmbwVhf-C07Ixj6x-2__zVu7l7U_GX-rOtWpp7DnoXOF5eD3JF5tU4bMtd7ELAnHlCxR2DPN-RCt3Nlxo4cEd4iRft2NijexnywrukZ7I3_7j9lm5o04snZy76pK9vIJZNxqMkwazhUIPnL31erLEDtbp1j4YgV7Dh39NPDq1f6kGsbxBSfGHEq_AGPFAoYUBA0FeiTopceZTY1xEjm240Tkcj4nJ1-jyXZewYoD53APhzxVmx-DQ	http_500
+https://cdn4.telesco.pe/file/86c7e15671.mp4?token=djMAcZ3s8hXddGHbjaTJFc1EXyP6lm9kCOEyZKRFt9XlPnmqyqUde8cuGXhoo8cYEb561b5079YRAFa33jnbJ2Md5agM8RqoG4aONF6_xjhyGtDLMTxbjFflaPl0rjDHd-_U5JIlqhUFJwzHdBRHStawQwqbyBGcmo1DStNxknEEcmg_uXZe_JIMFBoxixSTW7xq7RsjS9f6qd_RTwg2sHAzKEKkFEWZhUkSSuGQrK7jTXSp5N2aSKVkSkAefrmeDZmaNenJvDGmlLJ_f5TLgpkNCpbGoZ8x-Z13YTgnDMACy3rSYmw4oI5ZeRG27igRHtFDRdXQS9wgpTgP-MHBLg	http_500
+http://187.188.171.231:10101#%E2%9A%99%EF%B8%8F89@oneclickvpnkeys	request_failed
+https://teyurixjknfa.shop/fa/affiliates	request_failed
+
+=== 2026-09-16 13:03:09 - 失效订阅 (1 个) ===
+https://api.qihangj.shop/api/v1/client/subscribe?token=3bb4ae4405201f479016ccb330d22554	http_403

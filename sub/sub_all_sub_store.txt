@@ -1,14 +1,16 @@
 -- play_list --
 
 
+http://36.133.43.24:8081/sub/api/subscribe?token=27d032a522be7f13b084de12080cc4a0
 https://uwu.femboy67.dpdns.org/?url=freenodes
-https://mifa.world/orion
-https://sub1.gsafevpn.com/957baaca8fc/cc689ef1d6e8f2bdce720df54353c89b
-https://sub1.gsafevpn.com/957baaca8fc/4867ffd8c8d6bccd6b6f4d70b2d25d7c
+https://sub1.gsafevpn.com/957baaca8fc/ce036c959eb30960f15a51d979511d44
+https://sub1.gsafevpn.com/957baaca8fc/ce036c959eb30960f15a51d979511d44?flag=clash
+http://36.133.43.24:8081/sub/api/subscribe?token=5891d7bdc47a50951fdf0c5f5652048e
+https://sub1.gsafevpn.com/957baaca8fc/12e09c2487e71cc3c27daf22ebeec919
+https://ys.jiedianxielou.workers.dev:443
 https://xzjb8.no-mad-world.club/link/as53HsDGAEpvUMpc?clash=3&amp;extend=11
 https://rifiv.no-mad-world.club/link/nIHOtvpB6zMwsos7?clash=3&amp;extend=1
 https://mlshu.top/s/013d13ca43f6be1f279ab2a6133aad7b
-https://ys.jiedianxielou.workers.dev:443
 https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3
 https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3#
 https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3#@yuzhenb888#
@@ -19,16 +21,18 @@ https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3vpn.y
 -- sub_list --
 
 
+http://36.133.43.24:8081/sub/api/subscribe?token=27d032a522be7f13b084de12080cc4a0
+http://36.133.43.24:8081/sub/api/subscribe?token=5891d7bdc47a50951fdf0c5f5652048e
 https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3
 https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3#
 https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3#@yuzhenb888#
 https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3#AV
 https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3vpn.yuzhe.cc.cd
-https://mifa.world/orion
 https://mlshu.top/s/013d13ca43f6be1f279ab2a6133aad7b
 https://rifiv.no-mad-world.club/link/nIHOtvpB6zMwsos7?clash=3&amp;extend=1
-https://sub1.gsafevpn.com/957baaca8fc/4867ffd8c8d6bccd6b6f4d70b2d25d7c
-https://sub1.gsafevpn.com/957baaca8fc/cc689ef1d6e8f2bdce720df54353c89b
+https://sub1.gsafevpn.com/957baaca8fc/12e09c2487e71cc3c27daf22ebeec919
+https://sub1.gsafevpn.com/957baaca8fc/ce036c959eb30960f15a51d979511d44
+https://sub1.gsafevpn.com/957baaca8fc/ce036c959eb30960f15a51d979511d44?flag=clash
 https://uwu.femboy67.dpdns.org/?url=freenodes
 https://xzjb8.no-mad-world.club/link/as53HsDGAEpvUMpc?clash=3&amp;extend=11
 https://ys.jiedianxielou.workers.dev:443
