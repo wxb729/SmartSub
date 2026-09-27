@@ -3,38 +3,44 @@
 
 http://sub.shkola112.site
 http://sub.shkola112.site/
+http://sub.shkola112.site:8080
 http://hkgoin.jyounet.com
 https://sub.femboy.us.ci/?url=freenodes
-https://mifa.world/atlas
+https://mifa.world/point
+http://36.133.43.24:8081/sub/api/subscribe?token=298cb35e1db1b5ddaea6e91f30fe41d5
+https://ys.jiedianxielou.workers.dev:443
+https://clash.leozai.com
+https://clash.leozai.com/
 https://rifiv.no-mad-world.club/link/nIHOtvpB6zMwsos7?clash=3&amp;extend=1
 https://mlshu.com/api/v1/client/subscribe?token=013d13ca43f6be1f279ab2a6133aad7b
 https://mlshu.top/s/013d13ca43f6be1f279ab2a6133aad7b
-https://clash.leozai.com
-https://clash.leozai.com/
-https://ys.jiedianxielou.workers.dev:443
-http://clash.liudonghoe.com
-http://clash.liudonghoe.com/
-http://clash.liudonghoe.com:8080
-https://clash.liudonghoe.com
-https://clash.liudonghoe.com:8443
 https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3
 https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3#
 https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3#@yuzhenb888#
 https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3#AV
 https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3vpn.yuzhe.cc.cd
 https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=avtoday.io
+http://clash.liudonghoe.com
+http://clash.liudonghoe.com/
+http://clash.liudonghoe.com:8080
+https://clash.liudonghoe.com
+https://clash.liudonghoe.com:8443
+http://36.133.43.24:8081/sub/api/subscribe?token=0ed824c7bab5b44b946128afbc9a7128
 https://www.xn--kivt58h.lol/s/a55ca516c9ef4234ab53e384e69a2456
 
 
 -- sub_list --
 
 
+http://36.133.43.24:8081/sub/api/subscribe?token=0ed824c7bab5b44b946128afbc9a7128
+http://36.133.43.24:8081/sub/api/subscribe?token=298cb35e1db1b5ddaea6e91f30fe41d5
 http://clash.liudonghoe.com
 http://clash.liudonghoe.com/
 http://clash.liudonghoe.com:8080
 http://hkgoin.jyounet.com
 http://sub.shkola112.site
 http://sub.shkola112.site/
+http://sub.shkola112.site:8080
 https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3
 https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3#
 https://36071.subnodejs-chai.com/ssp/xiaochai/link/IQizOAWXnxrtRHmN?clash=3#@yuzhenb888#
@@ -45,7 +51,7 @@ https://clash.leozai.com
 https://clash.leozai.com/
 https://clash.liudonghoe.com
 https://clash.liudonghoe.com:8443
-https://mifa.world/atlas
+https://mifa.world/point
 https://mlshu.com/api/v1/client/subscribe?token=013d13ca43f6be1f279ab2a6133aad7b
 https://mlshu.top/s/013d13ca43f6be1f279ab2a6133aad7b
 https://rifiv.no-mad-world.club/link/nIHOtvpB6zMwsos7?clash=3&amp;extend=1
