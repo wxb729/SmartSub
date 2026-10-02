@@ -12014,3 +12014,8 @@ http://18.166.216.113:443/	request_failed
 https://B2n.ir/xf3526	http_403
 https://cdn4.telesco.pe/file/6526548f3c.mp4?token=eD0L5_2jyBXWrmvQuS2lSOcU-AO_4QYFXSGS4IrhhmSbw_LUs6DCjj65TpEXA6j3H9pLGjvEGl-iqBM8mZjXv9HBHSu_u4fU1QR5EhfuzFEHJUZEqA94g5bOAgDc_ko2DmqVgEQdx44MOLxpcrPPZG0-MffB8a01tE6T85-nT3V7ITmPsbnT4FCRlb8ImGWVtpehLZLVSGZps7sjuEC1qIwVcZpY0AI6-nJHu-wud9WVcMMfgzuqiCyW58NIlW2OQOjZMuRl20ysslW3afMyTQ4sO8F9C5DDCjxVoVkOh_FVf_6CjRLCJ-M4l8s94Z56T2QT7_X9hw7jgtGHQSk0Jw	http_500
 https://mailnesia.com	request_failed
+
+=== 2026-10-02 13:57:31 - 失效订阅 (3 个) ===
+https://hey.oh-sub.top/moscow/6d98ddb5fb9adefc1b23a614725c9003	http_204
+https://qqyst.sfht.kdns.fr/33e87cba-907f-4990-8dbd-a9d14e5d17e1	http_429
+https://m1.tohno-0.top/oosaka/58d1165ff5543daded72f64d977a1040	http_403
