@@ -12097,3 +12097,8 @@ http://sub.shkola112.site/	request_failed
 http://sub.shkola112.site	request_failed
 http://sub.shkola112.site:8080	request_failed
 http://sub.shkola112.site:8080/	request_failed
+
+=== 2026-10-08 14:24:52 - 失效订阅 (3 个) ===
+https://m1.tohno-0.top/oosaka/f03cbc4a7a32d778c7f08a43a987c4d3	http_403
+https://akcms.mambatv.uk/6SXc2BHo/images/4JXMdfaRut/aliyun?token=91c439d83a63f9427c65f4dedfa5d152	http_403
+https://live.suancaihu.eu.org/	http_403
